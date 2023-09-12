@@ -166,6 +166,9 @@ besetzen 安排(人员)
 Baustelle 建筑工地，施工现场
 unterschiedlich 不同的，不一定的
 bewerben （通过申请）谋求（职位）
+
+Am besten Sie bewerben sich per E-Mail.
+为什么动词不在第二位？口语不严格要求语法正确吗？
 `````
 
 # 07_L7_2a_b.mp3
@@ -194,6 +197,12 @@ versuchen 尝试，试图
 zu dritt 三人一起
 der Streit 争吵,吵架
 der Bescheid 告知，通知；(对申请的)答复
+
+Es soll immer ein Kollege am Arbeitsplatz bleiben.
+为什么能使用es作主语？
+
+Und jetzt habe ich ein echtes Problem mit Herrn Frank.
+Herr Frank的Dativ要变成Herrn Frank
 `````
 
 # 08_L7_2a_b.mp3

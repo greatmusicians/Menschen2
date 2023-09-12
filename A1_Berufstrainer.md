@@ -33,6 +33,15 @@ Frau Bailey: Guten Tag, Herr Maganto. Herzlich willkommen.
 Frau Schmidt: Liebe Mitarbeiterinnen, liebe Mitarbeiter, ich möchte Ihnen unseren neuen Kollegen, Herrn Maganto, vorstellen: Herr Maganto kommt aus Spanien, aus Madrid. Seine Familie wohnt noch in Madrid – er hat schon zwei kleine Kinder. Herr Maganto wohnt aber hier in Berlin. Er ist Mathematiker von Beruf. Er kennt sich gut mit Software und Computern aus und arbeitet bei uns in der Firma als IT-Fachmann. Wir hoffen auf eine gute Zusammenarbeit! Herzlich willkommen, Herr Maganto!
 `````
 
+`````
+Er kennt sich gut mit Software und Computern aus.
+sich auskennen mit Dat. 精通，熟悉
+ich kenne mich hier, in dieser Stadt, an diesem Ort nicht aus
+sich bei den Frauen auskennen
+sich mit Computern (gut) auskennen
+用哪个介词？还没搞清楚。
+`````
+
 # 05_L2_3.mp3
 <audio controls loop src="A1_Berufstrainer/05_L2_3.mp3"></audio>
 
@@ -249,6 +258,27 @@ Frau Münch: … 98 30. Vielen Dank, Herr Jasper. Oh, der Zug kommt. Endlich! Au
 
 `````
 GmbH [ge:·εmbe:`ha:] 有限责任公司
+auf jn./Akk. warten 等待xx
+
+`````
+
+`````
+frei haben vs. frei sein
+
+Ich habe heute frei. = Ich muss heute nicht arbeiten, in die Schule/Uni gehen.
+Ich bin frei. = I am free.
+
+frei haben 休息，不上班
+`````
+
+`````
+Wohin geht die Reise?
+去哪儿旅？
+
+auf die Reise, auf Reisen gehen (Reisen: Pl.)
+去旅行，看例句有时是Reise作主语，有时是人作主语，搞不懂
+auf der Reise sein, auf Reisen sein (Reisen: Pl. Dat.)
+在旅途中，在旅行
 `````
 
 # 18_L10_3a.mp3
