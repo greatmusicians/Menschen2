@@ -347,12 +347,30 @@ Frau Miller: Miller, Personalabteilung.
 Frau Parádi: Parádi, guten Tag, Frau Miller. Frau Miller, ich glaube, dass ich noch Urlaub aus dem letzten Jahr habe. Aber ich weiß nicht, wie viel. Können Sie mir das bitte sagen?
 Frau Miller: Ja, einen Moment. Ja, hier habe ich es. Sie haben noch vier Tage Resturlaub. 
 Frau Parádi: Vier Tage? Das ist für mich ja eine ganze Woche – toll!
-Frau Miller: Ja. Sie wissen, dass Sie den Urlaub bis zum 31. März nehmen müssen?
-Dann verfällt er. 
+Frau Miller: Ja. Sie wissen, dass Sie den Urlaub bis zum 31. März nehmen müssen? Dann verfällt er. 
 Frau Parádi: Ja, das weiß ich. Ich habe noch eine andere Frage. Im letzten Jahr habe ich noch Vollzeit gearbeitet. Da hatte ich 30 Urlaubstage. Jetzt arbeite ich Teilzeit. Wie viele Urlaubstage habe ich denn dann in diesem Jahr?
 Frau Miller: Eine Sekunde. Also: Sie arbeiten jetzt 80 Prozent, das sind vier Tage die Woche. Dann haben Sie einen Urlaubsanspruch von 24 Tagen. 
 Frau Parádi: 24 Tage!? Das ist gut. Vielen Dank, Frau Miller. Auf Wiederhören.
 Frau Miller: Gern. Auf Wiederhören.
+`````
+
+`````
+verfallen, verfällt, ist verfallen, 到期，失效
+der Urlaubsanspruch 休假请求，休假的权利
+der Anspruch, Ansprüche, 要求；权利，资格
+`````
+
+`````
+Nominativ:
+Mein Geburtstag ist der siebzehnte Dritte. 我的生日是3月17日。
+
+Dativ:
+bis zum 31. März: 31. = einunddreißigsten
+am 14. September: 14. = vierzehnten
+Ich bin am 15. Dezember 1970 geboren. 我是1970年12月15日出生的。
+
+Akkusativ:
+Ich habe den vierzigsten Geburtstag. 我过40岁生日。
 `````
 
 # 14_L14_4a.mp3
@@ -368,8 +386,8 @@ Frau Scholz: Es gibt verschiedene Möglichkeiten: per Kreditkarte, Rechnung oder
 
 `````
 bearbeiten  加工，处理（百度：德语前缀解析：be-）
-Ablauf 经过，过程
-Ware 货物，商品
+der Ablauf, Abläufe, 经过，过程
+die Ware, -n, 货物，商品
 Annahme 收件处
 prüfen 检查，审核
 Artikel 商品，货物，物品
