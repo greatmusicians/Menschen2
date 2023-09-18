@@ -93,8 +93,97 @@ aufgeregt 激动的，不安的
 # 03_L3_3a_b.mp3
 <audio controls loop src="B1_Berufstrainer/03_L3_3a_b.mp3"></audio>
 
+`````
+Clemens Pfeifer: Succeed GmbH, Personalabteilung. Sie sprechen mit Clemens Pfeifer. Was kann ich für Sie tun?
+Sabrina Köhler: Guten Tag, Herr Pfeifer. Hier spricht Sabrina Köhler.
+Clemens Pfeifer: Guten Tag, Frau Köhler.
+Sabrina Köhler: Ich habe eine Frage. Ich habe gestern meine Kündigung in die Personalabteilung gegeben. Und weil gestern der letzte Tag des Monats war, möchte ich nachfragen, ob Sie alles fristgerecht bekommen haben und ob mit der Kündigung alles in Ordnung ist.
+Clemens Pfeifer: Kleinen Moment bitte, Frau Köhler. ... Hören Sie? Ihre Kündigung liegt vor. Sie haben laut Arbeitsvertrag eine Kündigungsfrist von einem Monat zum Monatsende. Genauso lang ist auch die gesetzliche Kündigungsfrist. Sie haben die Kündigung am 31. Oktober eingereicht. Ihr letzter Arbeitstag ist damit der 30. November.
+Sabrina Köhler: Ich habe auch noch ein paar Tage Urlaub.
+Clemens Pfeifer: Moment. Ja, Sie haben noch sechs Tage Urlaub. Ihr letzter Arbeitstag ist also der … 22. November.
+Sabrina Köhler: Danke, Herr Pfeifer. Sie haben mir sehr weitergeholfen.
+Clemens Pfeifer: Keine Ursache. Auf Wiederhören.
+`````
+
+`````
+die Kündigung 解约通知，解雇通知；辞职
+die Kündigungsfrist 辞职期限
+der Kündigungsgrund 辞职理由
+fristgerecht adj. 按规定的期限
+vorliegen ???
+laut = nach, 根据
+这里laut是Präposition，属于papierdeutsch，即公文用德语、官僚语言，贬义。
+die Frist 期限，时限
+gesetzlich 法定的
+einreichen 提交，递交，呈送
+die Ursache 原因，理由
+
+- Sie haben mir sehr weitergeholfen. = You helped me a lot.
+- Keine Ursache. = No problem.
+`````
+
 # 04_L4_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/04_L4_2a_b.mp3"></audio>
+
+`````
+Gespräch 1
+Gast: Entschuldigung?
+Kellnerin: Ja, bitte?
+Gast: Ich hatte doch extra gesagt, dass die Nudeln al dente, d. h. bissfest, sein sollen. Sie sind aber ganz weich und schmecken nach nichts. Die Soße ist auch ganz versalzen. Das kann man wirklich nicht essen.
+Kellnerin: Oh. Es tut mir wirklich sehr leid, dass Sie nicht zufrieden sind. Möchten Sie denn ein anderes Gericht von unserer Karte probieren?
+Gast: Nein, ich möchte hier überhaupt nichts mehr essen!
+Kellnerin: Ich kann Ihren Ärger verstehen. Ich werde es an den Küchenchef weitergeben. Und das Essen brauchen Sie selbstverständlich nicht zu bezahlen.
+
+Gespräch 2
+Servicemitarbeiter: Guten Tag, wie kann ich Ihnen helfen?
+Fahrgast: Ich wollte gerade mit dem ICE nach Stuttgart fahren. Der Zug fällt aber aus. Nun komme ich ganz sicher nicht pünktlich zu meinem Termin.
+Servicemitarbeiter: Das ist wirklich sehr ärgerlich.
+Fahrgast: Und meine Sitzplatzreservierung habe ich natürlich auch umsonst bezahlt. Immer nur Ärger hat man mit der Bahn. Wäre ich doch nur mit dem Auto gefahren!
+Servicemitarbeiter: Beruhigen Sie sich erst mal, wir finden einen Weg. Die Kosten für die Sitzplatzreservierung bekommen Sie auf jeden Fall zurück. Und ich schaue sofort, wann der nächste Zug nach Stuttgart fährt. In der Regel fahren sie alle 30 Minuten. Sie schaffen es sicher noch rechtzeitig zu Ihrem Termin.
+
+Gespräch 3
+Servicemitarbeiter: Guten Tag, Servicehotline Wohnen und Einrichten, mein Name ist Peter Müller. Was kann ich für Sie tun?
+Kundin: Guten Tag, hier Beate Meißner. Ich hätte eine Beschwerde. Ich habe letzte Woche bei Ihnen eine grüne Decke für mein Sofa bestellt. Jetzt habe ich die Lieferung bekommen und die Decke ist blau. Sie passt gar nicht zu meinem Sofa. Das habe ich so nicht bestellt. Ich habe hier noch meine Bestellbestätigung. Auf der steht deutlich, dass ich
+die Decke in grün bestellt habe.
+Servicemitarbeiter: Oh, das tut uns sehr leid.
+Kundin: Und außerdem stimmt auch der Preis nicht. Die Decke sollte 19 Euro kosten. Jetzt steht 29 Euro auf der Rechnung.
+Servicemitarbeiter: Wir bitten um Entschuldigung. Normalerweise bekommen Sie bei uns immer genau das, was Sie bestellt haben und zu dem angegebenen Preis. Wir werden uns bemühen, dass das nicht mehr vorkommt. Ich schicke Ihnen gleich heute noch die richtige Decke für 19 Euro zu. Und die blaue Decke dürfen Sie als kleine Entschuldigung behalten.
+Kann ich sonst noch etwas für Sie tun?
+Kundin: Nein, danke. Wenn Sie mir das zuschicken, was ich bestellt habe, ist alles in Ordnung.
+Servicemitarbeiter: Dann wünsche ich Ihnen noch einen schönen Tag und viel Spaß mit der Decke.
+Kundin: Vielen Dank, auf Wiederhören.
+Servicemitarbeiter: Auf Wiederhören.
+`````
+
+`````
+d. h. = das heißt
+bissfest = al dente
+die Soße 酱汁，调味汁
+versalzen, partizipiales Adjektiv, 加盐太多的
+selbstverständlich 理所当然的，不言而喻的，自然的，显而易见的
+
+Das Brot schmeckt nach nichts.
+The bread tastes like nothing. The bread is tasteless.
+
+Ich werde es an den Küchenchef weitergeben.
+I'll pass it on to the chef.
+`````
+
+`````
+Nudeln al dente = Pasta al dente
+/ælˈdentɐ; ælˈdenti/
+
+al dente是一个来自意大利语的短语，通常用来描述一种烹饪面食的方式，意思是“到牙齿略带阻力的口感”。这种烹饪方式的目的是使面食在烹煮过程中保持一定的韧性和口感，而不是变得过于软烂。
+
+bissfest = al dente
+fest 结实的，牢固的
+`````
+
+`````
+ausfällen 查字典没找到列车取消的解释，但是确实有这种用法
+Der Zug fällt aus oder kommt zu spät. = The train is canceled or is too late.
+der Zugausfall 列车取消
+`````
 
 # 05_L5_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/05_L5_2a_b.mp3"></audio>
