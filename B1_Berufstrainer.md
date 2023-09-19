@@ -183,6 +183,27 @@ fest 结实的，牢固的
 ausfällen 查字典没找到列车取消的解释，但是确实有这种用法
 Der Zug fällt aus oder kommt zu spät. = The train is canceled or is too late.
 der Zugausfall 列车取消
+umsonst Adv. 徒劳，白白地；无偿地，免费地，义务地
+sich beruhigen 安静下来，平静下来，平息下来
+schaffen (在一定时间内)完成，做到
+rechtzeitig 及时的，及早的
+
+
+Wäre ich doch nur mit dem Auto gefahren!
+If only I had driven the car! 要是我开车就好了！
+
+
+`````
+
+`````
+In der Regel fahren sie alle 30 Minuten.
+They usually run every 30 minutes.
+
+in der Regel = für gewöhnlich, meistens, fast immer
+
+这里的alle，应该是"每"的意思，还能搜到如下用法
+Ein ICE alle 30 Minuten
+Für die jeweilige Stadt bedeutet dies, dass auf einer Hauptachse etwa alle 30 Minuten ein ICE pro Richtung fährt.
 `````
 
 # 05_L5_2a_b.mp3
