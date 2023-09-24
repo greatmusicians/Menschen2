@@ -209,6 +209,20 @@ Für die jeweilige Stadt bedeutet dies, dass auf einer Hauptachse etwa alle 30 M
 # 05_L5_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/05_L5_2a_b.mp3"></audio>
 
+`````
+Kollegin: Richard, sag mal, hast du den Fragebogen schon ausgefüllt?
+Richard: Hm? Welchen Fragebogen?
+Kollegin: Na, den Fragebogen, der gestern per Mail an alle Mitarbeiter ging. Von unserem Praktikanten, der seine Masterarbeit zum Thema „Informationstechnik am Arbeitsplatz“ schreibt. Er untersucht, welche technischen Geräte den Mitarbeitern zur Verfügung stehen und wie häufig sie sie nutzen.
+Richard: Ach so, nein, hab‘ ich nicht gesehen … Ah, hier ist die Mail. So, Anhang auf … Ich fülle das gleich online aus. Hm. Welche technischen Geräte … Festnetztelefon? Ja, brauche ich unbedingt. Fax? Haben wir im Sekretariat, am Platz brauche ich keins. Computer, Bildschirm, Tastatur? Klar, damit arbeite ich ja täglich. Maus? Ja, aber nur in der Schublade. Einen Scanner habe ich auch, den halte ich für sehr wichtig. Drucker … ja, den verwende ich wirklich sehr häufig.
+Kollegin: Und jetzt kommen die mobilen Geräte, da bist du doch auch bestens ausgestattet.
+Richard: Ja. Laptop und Smartphone sind für mich auf den Dienstreisen unbedingt nötig. Ich bin ja etwa zweimal pro Woche unterwegs. In der Firma nutze ich aber doch eher das Festnetztelefon und meinen Computer. Ein Tablet wäre gut … das ist ja viel leichter und kleiner als der Laptop. Das ist praktischer und passt in jede Reisetasche. Und eine externe Festplatte müsste auch irgendwo sein, in der Schublade neben der Maus. Aber ich verwende sie ziemlich selten.
+Kollegin: Okay, damit wärst du durch! Und nun ich ...
+`````
+
+`````
+der Fragebogen 调查问卷
+`````
+
 # 06_L6_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/06_L6_2a_b.mp3"></audio>
 
