@@ -191,8 +191,6 @@ rechtzeitig 及时的，及早的
 
 Wäre ich doch nur mit dem Auto gefahren!
 If only I had driven the car! 要是我开车就好了！
-
-
 `````
 
 `````
@@ -221,22 +219,241 @@ Kollegin: Okay, damit wärst du durch! Und nun ich ...
 
 `````
 der Fragebogen 调查问卷
+die Masterarbeit 硕士论文
+untersuchen, hat untersucht, 调查，研究
+Verfügung 支配，使用，利用
+der Anhang 附录，附件
+Festnetztelefon 座机，固定电话
+unbedingt dwds上g发后鼻音，但音频中能听到k音，以dwds为准吧
+das Sekretariat [zekreta`ria:t] 秘书处，秘书办公室
+die Schublade 抽屉
+der Scanner [`skεnɐ] 扫描仪
+bestens adv. 最好地，非常好地
+ausstatten 配备
+eher 更容易，更可能；宁可，宁愿；倒不如说是，更确切地说
+extern [εks`tεrn] 外部的
+intern [in`tεrn] 内部的
+irgendwo [`irgnt`vo:] 在某个地方
+`````
+
+`````
+zur Verfügung stehen = be available
+
+Er untersucht, welche technischen Geräte den Mitarbeitern zur Verfügung stehen und wie häufig sie sie nutzen.
+He examines which technical devices are available to employees and how frequently they use them.
+
+Wir haben nicht genügend Arbeitskräfte zur Verfügung.
+我们没有足够的劳动力可供使用。
+
+Ich halte mich zu Ihrer Verfügung.
+我随时听候您的吩咐。
+`````
+
+`````
+Am Platz brauche ich keins.
+这里用了keins，不知道是什么语法？
+`````
+
+`````
+Einen Scanner habe ich auch, den halte ich für sehr wichtig.
+I also have a scanner, which I think is very important.
+
+Ich halte die Kälte nicht länger aus.
+I can't stand the cold any longer.
+
+Ich halte dich für meinen besten Freund.
+I consider you my best friend.
+
+Ich halte Gesundheit für sehr wichtig.
+I think health is very important.
+
+Ich halte diesen Mann für verloren.
+I think this man is lost.
+
+https://gikken.co/mate-translate/sentences/german/halte
+`````
+
+`````
+Eine externe Festplatte müsste auch irgendwo sein.
+An external hard drive would also have to be somewhere.、
+
+Okay, damit wärst du durch!
+Okay, you're done with that!
 `````
 
 # 06_L6_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/06_L6_2a_b.mp3"></audio>
 
+`````
+1
+Sekretärin: Ein herzliches Dankeschön für Ihre große Hilfe bei unserer Jubiläumsfeier. Alle Mitarbeiter waren begeistert von Ihrem Angebot und Ihrem Service. Dass alles so perfekt gelaufen ist, verdanken wir Ihrer Erfahrung und Professionalität.
+2
+Kollegin: Heute möchte ich dir endlich mal Danke sagen für unsere gute Zusammenarbeit. Ich finde es schön, mit dir ein Büro zu teilen. Und ich freue mich, dass wir uns bei der Arbeit gegenseitig unterstützen. Lass dir die Schokolade schmecken!
+3
+Geschäftspartner: Wir danken Ihnen für Ihr Vertrauen und freuen uns, Ihnen auch im nächsten Jahr wieder beratend zur Seite stehen zu dürfen.
+4
+Chef: Zum Abschied aus dem Beruf möchten wir uns bei Ihnen herzlich für die gemeinsamen Arbeitsjahre bedanken. Wir sind Ihnen für Ihr Engagement sehr dankbar und wünschen Ihnen für Ihre Pensionierung alles Liebe und Gute.
+`````
+
+`````
+das Dankeschön, der Dank 都是谢谢，但是用法上有不同
+ein herzliches, freundliches, kleines, großes Dankeschön
+danke interj. 是语气词
+
+begeistert, partizipiales Adjektiv, 热情的，兴奋的，有激情的
+teilen 分享，分担
+gegenseitig 相互的，彼此的
+unterstützen 支持，帮助，促进
+der Geschäftspartner 商务伙伴，合伙人
+das Vertrauen 相信，信任
+beratend 咨询的，建议的
+zur Seite stehen 站到某一边，引申为“帮助，协助”
+Engagement [ãgaʒə`mã:] 责任心
+Pensionierung 退休
+`````
+
+`````
+Wir danken Ihnen für Ihr Vertrauen und freuen uns, Ihnen auch im nächsten Jahr wieder beratend zur Seite stehen zu dürfen.
+
+We thank you for your trust and look forward to being able to provide you with advice again next year.
+
+我们感谢您的信任，并期待明年能够再次为您提供建议。
+`````
+
+`````
+Zum Abschied aus dem Beruf möchten wir uns bei Ihnen herzlich für die gemeinsamen Arbeitsjahre bedanken. Wir sind Ihnen für Ihr Engagement sehr dankbar und wünschen Ihnen für Ihre Pensionierung alles Liebe und Gute.
+
+As we say goodbye to our profession, we would like to thank you very much for the years we worked together. We are very grateful to you for your commitment and wish you all the best in your retirement.
+`````
+
 # 07_L7_3a_b_c.mp3
 <audio controls loop src="B1_Berufstrainer/07_L7_3a_b_c.mp3"></audio>
+
+`````
+Verkäufer: Kann ich etwas für Sie tun?
+Kundin: Ich suche einen neuen Wasserkocher und möchte mich bei Ihnen informieren.
+Verkäufer: Sehr gern. Hier hätten wir zwei Modelle im Angebot. Unser Wasserkocher „Sky“ wird gern und oft gekauft. Er ist preiswert und hält viel aus, ist aber sehr klein. Sie müssen auch berücksichtigen, dass er einen etwas höheren Stromverbrauch hat.
+Kundin: Danke, das ist ein guter Hinweis.
+Verkäufer: Ich rate Ihnen, sich für den Wasserkocher „Silver“ zu entscheiden. Er kann zwei Liter Wasser kochen und hat einen sehr geringen Stromverbrauch. Aber er ist auch etwas teurer als das erste Modell.
+Kundin: Da muss man ja einiges beachten. Hm. Ich lebe allein, deshalb brauche ich nur einen kleineren Wasserkocher. Aber mir ist wichtig, dass die Qualität stimmt – ich möchte mir nicht im nächsten Jahr wieder einen Wasserkocher kaufen.
+Verkäufer: Also dann würde ich Ihnen „Sky“ empfehlen. Beim Kauf dieses Modells bekommen Sie als besonderen Service von uns sogar ein Jahr mehr Garantie.
+Kundin: Oh, interessant. Ich habe mich schon entschieden. Ich nehme das kleinere Modell.
+Verkäufer: Eine gute Entscheidung. Viel Freude damit!
+Kundin: Vielen Dank, auch für die Beratung.
+`````
+
+`````
+sich über Akk. bei jm. informieren 向某人打听某事
+aushalten 忍受住，承受得住
+berücksichtigen 考虑到，注意到
+der Stromverbrauch 耗电量
+der Hinweis 指点，提示，暗示
+sich für Akk. entscheiden 选择，决定
+Ich habe mich für dieses Buch entschieden. 我挑选了这本书。
+gering 少量的
+`````
 
 # 08_L8_2a_b_c.mp3
 <audio controls loop src="B1_Berufstrainer/08_L8_2a_b_c.mp3"></audio>
 
+`````
+Herr Fröhlich: Liebe Zuhörerinnen und Zuhörer, willkommen zu unserer Sendung „Talk am Mittag“, heute zum Thema „Wie finde ich den richtigen Beruf?“. Gast in meiner Sendung heute ist Luise Beier. Frau Beier ist Geschäftsführerin der Berufsberatung Wegweiser in Hamburg. Guten Tag, Frau Beier.
+Luise Beier: Hallo, Herr Fröhlich.
+Herr Fröhlich: Sie leiten seit vier Jahren sehr erfolgreich die Beratungsstelle Wegweiser und haben schon viele junge Menschen auf ihrem Weg ins Berufsleben begleitet. Was ist Ihr Erfolgsrezept?
+Luise Beier: Na ja, wir hören genau zu, wenn wir mit unseren Klienten sprechen. Wichtig ist auch der Orientierungstest, den viele junge Leute bei uns machen. Aus diesen Informationen können wir dann schon ganz gut erkennen, welche berufliche Richtung passend wäre.
+Herr Fröhlich: Welche gibt es denn?
+Luise Beier: Zunächst hätten wir da die technischen Berufe. Wenn jemand gern konstruiert und Verständnis für Mechanik, Physik und Chemie zeigt, könnte er zum Beispiel als Ingenieur, Maschinenbauer oder Kfz-Mechatroniker glücklich werden. Oder als Veranstaltungstechniker – auch ein sehr beliebter technischer Beruf. Wenn jemand aber sehr kontaktfreudig ist und gern anderen Menschen hilft, würden wir ihm einen der sozialen Berufe empfehlen.
+Herr Fröhlich: Welchen zum Beispiel?
+Luise Beier: Da gibt es sehr viele – und sehr viele verschiedene: Sozialarbeiter zum Beispiel, Erzieher, Krankenpfleger oder Altenpfleger. Was passt, ist abhängig von den eigenen Vorlieben und Vorstellungen.
+Herr Fröhlich: Und wenn ich mich weder für technische noch für soziale Berufe eigne?
+Luise Beier: Dann sind Sie vielleicht in einem handwerklichen Beruf genau richtig. Wenn Sie gern mit den Händen arbeiten, etwas schaffen wollen und es Sie nicht stört, schmutzig zu erden, könnten Sie vielleicht ein guter Tischler, Bäcker, Maler oder Maurer werden.
+Herr Fröhlich: Und wenn ich bei der Arbeit viel Abwechslung und Freiheit brauche?
+Luise Beier: Dann würden wir Ihnen raten, sich mit kreativen Berufen wie Fotograf, Designer, Architekt oder Journalist näher zu beschäftigen.
+Herr Fröhlich: Vielen Dank für diese Einführung, Frau Beier. Bleiben Sie dran. Nach den Nachrichten werden wir noch mehr zum Thema „Berufsberatung“ erfahren.
+`````
+
+`````
+der Wegweiser 指路牌，路标，在文中感觉像是一家公司的名字
+begleiten 陪同，陪伴
+zuhören 注意听，仔细听，倾听
+der Klient [kli`εnt] 顾客，客户
+passend 合适的，适当的
+abhängig [ˈaphɛŋɪç] 依赖于……的，取决于……的
+die Vorliebe 偏爱，嗜好
+die Vorstellung 意见，想法
+sich eignen 适用于，适合于
+Tischler 木匠
+Maurer 泥瓦工，泥水匠
+erfahren 经历，体验
+Bleiben Sie dran. = Stay tuned = Hold on. = 敬请期待。
+`````
+
+`````
+zuerst vs. zunächst
+
+看了一些句子，感觉zuerst的首先，真的就是多个步骤中的第一步，所以接下来还会讲第二步、第三步……
+而zunächst的首先，应当理解成“最重要的是什么”，其他的都不如这个重要，所以可能就不讲了
+
+Man sagt eher "zuerst", wenn man weiß was man danach machen will, und "zunächst" wenn man es noch nicht so genau weiß..
+
+"zunächst" sagt man eigentlich nur, wenn darüber gesprochen wird, was man... zuerst tut. Was ist am wichtigsten? Selten wird man nach "zunächst" darüber sprechen, was man später tut. Nach dem "zunächst".
+
+"Zuerst brate ich die Zwiebeln in Olivenöl an, dann gebe ich den Reis hinzu, dann Brühe und Safran..."
+"Zunächst machen wir mal eine Suppe, und dann... ähh.. Weiß nicht... Hmmm... Wie wär's mit Gulasch?"
+`````
+
+`````
+Was passt, ist abhängig von den eigenen Vorlieben und Vorstellungen.
+What fits depends on your own preferences and ideas.
+`````
+
 # 09_L9_1b_c.mp3
 <audio controls loop src="B1_Berufstrainer/09_L9_1b_c.mp3"></audio>
 
+`````
+Silvio Seifert: Guten Tag, meine Damen und Herren. Einige von Ihnen kennen mich ja schon. Mein Name ist Silvio Seifert, ich bin Gesundheitsberater. Wie Sie sicher alle wissen, denkt man in Ihrem Unternehmen darüber nach, Sportangebote einzuführen. Deshalb werde ich heute mit Ihnen über das Thema Betriebssport sprechen. Zunächst möchte ich Ihnen erläutern, was Betriebssport ist. Danach gehe ich auf die Vorteile von Betriebssport ein. Abschließend können Sie gern Fragen stellen. Unter Betriebssport versteht man Sport, der im Betrieb gemacht wird. Der Sport findet regelmäßig statt. Es können alle Sportarten gewählt werden, die man im Betrieb trainieren kann. Sehr beliebt sind zum Beispiel Rückengymnastik und Aerobic. Aber auch viele andere Sportarten sind möglich, wie zum Beispiel Fitness, Yoga und Tanz. Damit komme ich zum nächsten Punkt. Betriebssport hat viele Vorteile. Er schafft für die Mitarbeiter die Möglichkeit, Sportangebote schnell und einfach zu nutzen – nämlich in der Firma. Wenn man Sport macht, fühlt man sich besser und wird weniger oft krank. Außerdem habe ich die Erfahrung gemacht, dass Betriebssport auch für die Beziehung der Kollegen gut ist, was wieder positive Effekte auf das Arbeitsverhältnis hat. Ich bin nun mit meinem kurzen Vortrag am Ende. Ich hoffe, ich konnte Sie davon überzeugen, dass Betriebssport eine gute Sache ist. Haben Sie noch Fragen?
+`````
+
+`````
+erläutern 解释，讲解，说明
+eingehen 探讨，研究，发表意见
+auf ein Thema nicht näher eingehen 对某一问题不作更详细的探讨
+Beziehung  (政治、社会、商业、人情等)关系，来往
+das Arbeitsverhältnis 工作条件；雇用关系
+überzeugen 劝说，说服，使相信
+`````
+
 # 10_L10_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/10_L10_2a_b.mp3"></audio>
+
+`````
+Eva: Hallo Jutta. Guten Appetit. Schön, dass wir uns mal in der Kantine treffen. Darf ich mich zu dir setzen?
+Jutta: Hallo Eva. Natürlich, gern.
+Eva: Ist mit dir alles in Ordnung?
+Jutta: Na, nicht wirklich. Mir ist gerade etwas sehr Peinliches passiert. Heute war doch mal wieder die Versammlung der Geschäftsführer, die jeden Monat stattfindet. Ich sollte während des Gesprächs Unterlagen in den Konferenzraum bringen. Es waren sehr viele, aber ich dachte, ich schaffe das schon. Als ich zur Tür hineingegangen bin, sind mir alle Papiere zu Boden gefallen. Das war vielleicht blöd.
+Eva: Nicht zu glauben! Das ist ja wirklich dumm gelaufen.
+Jutta: Hätte ich doch bloß auf mein Gefühl gehört und wäre zweimal gegangen! Dann wäre das alles nicht passiert. Ich habe mich so über mich geärgert!
+Eva: Das ist wirklich sehr ärgerlich. Aber da kann man wohl nichts mehr machen. Passiert ist passiert.
+Jutta: Ja, leider. Und? Wie läuft es bei dir?
+`````
+
+`````
+peinlich 不愉快的，难堪的
+Versammlung 会议，集会
+die Unterlage 材料，资料
+blöd 笨拙的，低能的，不愉快的
+dumm 愚蠢的，无知的，糟糕的
+bloß 仅仅，只不过
+das Gefühl 感觉，感受
+`````
+
+`````
+Ich sollte während des Gesprächs Unterlagen in den Konferenzraum bringen.
+I was supposed to bring documents into the conference room during the interview.
+
+Hätte ich doch bloß auf mein Gefühl gehört und wäre zweimal gegangen!
+If only I had listened to my gut and gone twice!
+`````
 
 # 11_L11_1a.mp3
 <audio controls loop src="B1_Berufstrainer/11_L11_1a.mp3"></audio>
