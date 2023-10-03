@@ -143,12 +143,10 @@ Servicemitarbeiter: Beruhigen Sie sich erst mal, wir finden einen Weg. Die Koste
 
 Gespräch 3
 Servicemitarbeiter: Guten Tag, Servicehotline Wohnen und Einrichten, mein Name ist Peter Müller. Was kann ich für Sie tun?
-Kundin: Guten Tag, hier Beate Meißner. Ich hätte eine Beschwerde. Ich habe letzte Woche bei Ihnen eine grüne Decke für mein Sofa bestellt. Jetzt habe ich die Lieferung bekommen und die Decke ist blau. Sie passt gar nicht zu meinem Sofa. Das habe ich so nicht bestellt. Ich habe hier noch meine Bestellbestätigung. Auf der steht deutlich, dass ich
-die Decke in grün bestellt habe.
+Kundin: Guten Tag, hier Beate Meißner. Ich hätte eine Beschwerde. Ich habe letzte Woche bei Ihnen eine grüne Decke für mein Sofa bestellt. Jetzt habe ich die Lieferung bekommen und die Decke ist blau. Sie passt gar nicht zu meinem Sofa. Das habe ich so nicht bestellt. Ich habe hier noch meine Bestellbestätigung. Auf der steht deutlich, dass ich die Decke in grün bestellt habe.
 Servicemitarbeiter: Oh, das tut uns sehr leid.
 Kundin: Und außerdem stimmt auch der Preis nicht. Die Decke sollte 19 Euro kosten. Jetzt steht 29 Euro auf der Rechnung.
-Servicemitarbeiter: Wir bitten um Entschuldigung. Normalerweise bekommen Sie bei uns immer genau das, was Sie bestellt haben und zu dem angegebenen Preis. Wir werden uns bemühen, dass das nicht mehr vorkommt. Ich schicke Ihnen gleich heute noch die richtige Decke für 19 Euro zu. Und die blaue Decke dürfen Sie als kleine Entschuldigung behalten.
-Kann ich sonst noch etwas für Sie tun?
+Servicemitarbeiter: Wir bitten um Entschuldigung. Normalerweise bekommen Sie bei uns immer genau das, was Sie bestellt haben und zu dem angegebenen Preis. Wir werden uns bemühen, dass das nicht mehr vorkommt. Ich schicke Ihnen gleich heute noch die richtige Decke für 19 Euro zu. Und die blaue Decke dürfen Sie als kleine Entschuldigung behalten. Kann ich sonst noch etwas für Sie tun?
 Kundin: Nein, danke. Wenn Sie mir das zuschicken, was ich bestellt habe, ist alles in Ordnung.
 Servicemitarbeiter: Dann wünsche ich Ihnen noch einen schönen Tag und viel Spaß mit der Decke.
 Kundin: Vielen Dank, auf Wiederhören.
@@ -188,7 +186,6 @@ sich beruhigen 安静下来，平静下来，平息下来
 schaffen (在一定时间内)完成，做到
 rechtzeitig 及时的，及早的
 
-
 Wäre ich doch nur mit dem Auto gefahren!
 If only I had driven the car! 要是我开车就好了！
 `````
@@ -202,6 +199,39 @@ in der Regel = für gewöhnlich, meistens, fast immer
 这里的alle，应该是"每"的意思，还能搜到如下用法
 Ein ICE alle 30 Minuten
 Für die jeweilige Stadt bedeutet dies, dass auf einer Hauptachse etwa alle 30 Minuten ein ICE pro Richtung fährt.
+`````
+
+`````
+einrichten 布置，安排
+die Beschwerde 抱怨，申诉，提意见
+die Decke 覆盖物：套，罩，床罩，桌布，毛毯，天花板，书籍封面……
+Bestätigung 证明文件
+Bestellbestätigung 订单证明
+deutlich 清楚的，明确的，一目了然的
+am angegebenen Ort = a. a. O. = 在指定地点
+angeben 规定，指定
+sich bemühen 尽力，努力，尽力争取，竭力争取
+vorkommen 发生
+Das soll nicht wieder vorkommen. 这种事不会再发生。
+zuschicken 发送，送出，发出
+behalten 保留，留下
+`````
+
+`````
+zuschicken vs. schicken vs. abschicken
+
+Es gibt nur einen kleinen Unterschied.
+schicken ist allgemein:
+Soll ich das Buch schicken? (oder holst du es ab?)
+
+Bei "zuschicken" ist der Empfänger im Mittelpunkt.
+Soll ich DIR das Buch zuschicken? (Es gibt jetzt eine Person, zu der das Buch geschickt wird).
+
+Bei "abschicken" geht es um den Absender.
+Ich gehe zur Post und schicke den Brief ab.
+
+allgemein 一般的，普通的
+Mittelpunkt 中点，重点，核心
 `````
 
 # 05_L5_2a_b.mp3
