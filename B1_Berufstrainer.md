@@ -488,6 +488,60 @@ If only I had listened to my gut and gone twice!
 # 11_L11_1a.mp3
 <audio controls loop src="B1_Berufstrainer/11_L11_1a.mp3"></audio>
 
+`````
+Gespräch 1
+Frau: Stell dir vor, heute haben mich meine Kollegen überrascht!
+Mann: Wieso denn?
+Frau: Heute bin ich auf den Tag genau seit 20 Jahren in der Firma. Ich mache nächste Woche noch eine Jubiläumsfeier mit allen Kollegen. Aber meine Bürokollegen wollten mich gern am Jubiläumstag beglückwünschen. Schau mal, was ich für schöne Blumen bekommen habe.
+Mann: Toll, das ist ja sehr nett! Und 20 Jahre sind eine lange Zeit …
+Frau: Stimmt. Und ich gehe immer noch jeden Tag gern in die Firma!
+
+Gespräch 2
+Frau: Ich hatte heute doch das Gespräch mit Frau Weidner …
+Mann: Deiner Chefin?
+Frau: Ja.
+Mann: Und?
+Frau: Es ist was Tolles passiert: Sie hat mir eine Beförderung angeboten. Ich soll mir überlegen, ob ich die freie Stelle als Abteilungsleiterin haben möchte.
+Mann: Und?
+Frau: Ich habe sofort „ja“ gesagt.
+Mann: Das ist ja großartig! Ich freue mich für dich.
+Frau: Die Stelle bedeutet mehr Verantwortung und natürlich auch mehr Gehalt. Ich freue mich auch sehr!
+
+Gespräch 3
+Mann: Du, stell dir vor, heute war doch das große Sommerfest unserer Firma. Dort hat die Geschäftsführerin bekanntgegeben, dass ich zum „Mitarbeiter des Jahres“ gewählt wurde. Das hat mich total überrascht.
+Frau: Warum? Du arbeitest doch wirklich sehr viel für dein Unternehmen und bist auch sehr beliebt bei deinen Kollegen.
+Mann: Ja, das stimmt. Ich habe das einfach nicht erwartet. Umso mehr freue ich mich jetzt!
+`````
+
+`````
+wieso = weshalb = warum
+beglückwünschen 祝贺，庆贺
+(j-m) (zu etw.) gratulieren = j-n beglückwünschen
+Es ist was Tolles passiert. = Something great happened.
+Beförderung 晋升，升职
+sich(Dat.) etw. überlegen 思考，考虑
+sich(Dat.) etw. gut überlegen 三思，熟虑
+großartig 了不起的，出色的，非常好的
+Verantwortung 责任，职责
+bekanntgeben 公布，宣布
+umso + Komparativ 越，更
+`````
+
+`````
+Stell dir vor
+
+sich vorstellen (Dativ) = to imagine
+
+Not to be confused with "sich vorstellen" (Akkusativ), which means to introduce yourself.
+`````
+
+`````
+Schau mal, was ich für schöne Blumen bekommen habe.
+语法结构不是很懂
+für schöne Blumen 为什么用介词für呢？
+habe放在最后，是因为在从句里吗？
+`````
+
 # 12_L13_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/12_L13_2a_b.mp3"></audio>
 
