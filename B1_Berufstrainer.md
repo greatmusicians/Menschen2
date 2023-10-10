@@ -545,6 +545,45 @@ habe放在最后，是因为在从句里吗？
 # 12_L13_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/12_L13_2a_b.mp3"></audio>
 
+`````
+Tanja Blum: Sie sind mit dem Anschluss von Tanja Blum verbunden. Ich bin im Moment nicht an meinem Platz. Bitte hinterlassen Sie eine Nachricht, ich rufe dann schnellstmöglich zurück.
+Ricarda Hollmann: Guten Tag, Frau Blum, hier ist Ricarda Hollmann aus der Marketingabteilung. Ich hätte eine Bitte. Letzte Woche wurde doch bei uns die neue Software ProMarketing eingeführt. Die Schulung, die die anderen Mitarbeiter bekommen haben, habe ich leider verpasst, weil ich krank war. Und jetzt habe ich Schwierigkeiten mit der Software. Ich würde gern eine Fortbildung beantragen. Und ich bin nicht die Einzige: Mein Kollege Kilian Schulz war im Urlaub. Und nun kommt er mit ProMarketing auch nicht so gut zurecht. Er bräuchte die Fortbildung auch für seine Arbeit. Die Fortbildung würde uns helfen, mit unserer Arbeit schneller voranzukommen. Wir haben das mit unserer Chefin, Frau Buchwald, besprochen. Sie findet diese Fortbildung wäre notwendig, damit wir auf dem gleichen Stand wie die Kollegen sind. Sie ist einverstanden und sagte mir, dass ich Sie deshalb ansprechen soll. Es wäre nett, wenn Sie mich zurückrufen würden. Vielen Dank!
+`````
+
+`````
+Schulung 培训
+Fortbildung 培训
+beantragen 申请
+einzig 惟一的
+zurecht <在和动词构成的复合词中表示>正确，合适，适当
+zurechtkommen 同...相处融洽，跟...合起来；能做，能胜任，能对付
+Kommst du mit dem Apparat zurecht? 你对付那台机器么?
+vorankommen 往前走，前进；有进展
+
+besprechen 与…商讨，讨论，商议
+etw. (mit jm) besprechen
+sprechen 跟...谈话，找...谈话
+Ein Herr möchte Sie sprechen. 一位先生想同您谈话(或想见您)。
+sprechen mit jm. über Akk. 和某人谈论某事
+
+notwendig 必要的，必需的，必不可少的；必然的
+auf dem gleichen Stand = at the same level
+Damit wir alle auf dem gleichen Stand sind!
+
+
+
+`````
+
+`````
+Ausbildung, Fortbildung, Weiterbildung
+
+Ausbildung, 是指通过培训开始从事某个职业方向。
+
+Fortbildung, 是指在当前的职业方向上，继续深造。
+
+Weiterbildung, 有时候可以和Fortbildung通用，但也包含换一个其他方向继续学习深造。
+`````
+
 # 13_L14_1a_b.mp3
 <audio controls loop src="B1_Berufstrainer/13_L14_1a_b.mp3"></audio>
 
