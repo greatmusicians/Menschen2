@@ -569,9 +569,6 @@ sprechen mit jm. über Akk. 和某人谈论某事
 notwendig 必要的，必需的，必不可少的；必然的
 auf dem gleichen Stand = at the same level
 Damit wir alle auf dem gleichen Stand sind!
-
-
-
 `````
 
 `````
@@ -586,6 +583,18 @@ Weiterbildung, 有时候可以和Fortbildung通用，但也包含换一个其他
 
 # 13_L14_1a_b.mp3
 <audio controls loop src="B1_Berufstrainer/13_L14_1a_b.mp3"></audio>
+
+`````
+Hannah Bergmann: RWI Trainings, Sie sprechen mit Hannah Bergmann, was kann ich für Sie tun?
+Elias Martens: Guten Tag, mein Name ist Elias Martens. Ich bin auf der Suche nach einer Fortbildung im Bereich Projektmanagement. Auf Ihrer Internetseite habe ich gelesen, dass Sie solche Fortbildungen anbieten.
+Hannah Bergmann: Das ist richtig. Wir bieten regelmäßig Seminare zum Thema Projektmanagement an.
+Elias Martens: Könnten Sie mir etwas zum Kursinhalt sagen? Es ist mir wichtig, dass es ein Kurs ist, in dem nicht nur Grundlagen vermittelt werden. Ich habe schon Erfahrung im Projektmanagement, möchte aber lernen, wie man Projekte noch besser planen, umsetzen und kontrollieren kann. Außerdem wäre es gut, wenn im Kurs auch eine passende Software vorgestellt würde.
+Hannah Bergmann: Hmm … Im nächsten Monat starten bei uns zwei neue Kurse. Vielleicht ist es das Beste, wenn ich Ihnen die beiden Kursprogramme per E-Mail schicke. Dann können Sie ganz in Ruhe schauen, ob Ihnen einer der Kurse gefällt.
+Elias Martens: Sehr gern, vielen Dank. Meine E-Mailadresse ist elias.martens@econ-gruppe.com.
+Hannah Bergmann: Gut, Herr Martens, habe ich notiert. Melden Sie sich gern wieder, wenn Sie noch Fragen zu den Kursen haben.
+Elias Martens: Vielen Dank, das mache ich. Auf Wiederhören.
+Hannah Bergmann: Auf Wiederhören.
+`````
 
 # 14_L16_1b.mp3
 <audio controls loop src="B1_Berufstrainer/14_L16_1b.mp3"></audio>
