@@ -596,14 +596,77 @@ Elias Martens: Vielen Dank, das mache ich. Auf Wiederhören.
 Hannah Bergmann: Auf Wiederhören.
 `````
 
-# 14_L16_1b.mp3
-<audio controls loop src="B1_Berufstrainer/14_L16_1b.mp3"></audio>
+`````
+die Grundlage 基础
+基础知识常用复数 die Grundlagen der Psychologie
+vermitteln 把...介绍给；教授，传授
+umsetzen 把…付诸实施 ===>>> einen Plan umsetzen 把计划付诸实施
+`````
 
-# 15_L16_1d.mp3
-<audio controls loop src="B1_Berufstrainer/15_L16_1d.mp3"></audio>
+`````
+einige vs. manche vs. solche vs. etliche
+
+Solche = Art oder Typus von mensch. Satanisten schändeten wieder mal einen Friedhof. Solche Menschen würden auch nie eine Kirche betreten. (solche = kategorie von Mensch)
+
+"etliche" sind ganz viele.
+
+the opposite of "manche" is "die meisten", while the opposite of "einige" is "andere".
+
+'Manche' can generally mean 'some', but 'einige' is often used to describe 'several' or 'a few'.
+
+Etwas is like sonething - thats the easy one.
+
+Manche - this means some and is relevant to its context. Example: Manche Leute sind Höflich und manche nicht. (Some people are polite some are not). The word manche and einige are interchangeable and ist mostly a quanity thing. For me, manche is used when there are not that many but more than two is used. Einige is more than manche but still not much. To get this I try an other example: 3 out of 100 are manche and lets say 15 out of 100 are einige but still not much or many. There is no fixed amount of something for a rule when to use manche or einige, this is a highly intuitive case.
+
+https://www.gutefrage.net/frage/was-ist-der-unterschied-zwischen-einige-und-solche-und-etliche
+https://www.reddit.com/r/German/comments/7o78d7/whats_the_difference_between_etwas_manche_and/
+`````
 
 # 16_L16_1e.mp3
 <audio controls loop src="B1_Berufstrainer/16_L16_1e.mp3"></audio>
+
+`````
+Moderator: Meine Damen und Herren, ich begrüße Sie herzlich zu unserer Sendung „Beruf und Karriere“. Heute darf ich Frau Elena Palisch im Studio begrüßen. Frau Palisch ist Geschäftsführerin des Unternehmens Kavadus, das im Mai zum „Arbeitgeber des Jahres“ gewählt wurde. Guten Tag, Frau Palisch.
+Elena Palisch: Guten Tag.
+Moderator: Frau Palisch, wie wichtig ist Ihnen Mitarbeiterzufriedenheit?
+Elena Palisch: Sehr wichtig! Sonst hätten wir ja sicher auch nicht gewonnen. Zufriedene Mitarbeiter sind das Erfolgsrezept jedes Unternehmens. Wir haben das erkannt und in den letzten Jahren sehr viel getan, um für unsere Mitarbeiter gute Arbeitsbedingungen zu schaffen.
+Moderator: Können Sie uns da einige Beispiele nennen?
+Elena Palisch: Sicher. Unsere Erfahrung ist, dass viele Faktoren die Zufriedenheit der Mitarbeiter beeinflussen. Zum Beispiel das Geld. Wir zahlen ein angemessenes Gehalt. Das ist vielen Arbeitnehmern wichtig. Es hat sich aber auch gezeigt, dass Geld nicht die Hauptsache ist. Unseren Mitarbeitern ist auch Flexibilität sehr wichtig. Wir haben flexible Arbeitszeiten eingeführt und möchten damit die Vereinbarkeit von Beruf und Familie unterstützen.
+Moderator: Gibt es denn neben Geld und Flexibilität noch weitere Punkte, die sich Mitarbeiter wünschen?
+Elena Palisch: Ja: Zeit! Es gibt immer wieder Phasen im Leben, in denen Arbeitnehmer mehr Zeit für sich brauchen und gern weniger Stunden am Arbeitsplatz verbringen möchten. Wenn die Kinder klein sind zum Beispiel - oder wenn ein älterer Familienangehöriger Pflege braucht. Unsere Mitarbeiter haben die Möglichkeit, in Vollzeit oder Teilzeit zu arbeiten und die Arbeitszeit zu reduzieren, wenn es nötig ist. Und wir unterstützen gern auch Väter, die in Elternzeit gehen wollen.
+Moderator: Was tun Sie für Mitarbeiter, die sich fortbilden möchten?
+Elena Palisch: Für diese haben wir ein vielfältiges Fortbildungsangebot erarbeitet, das oft und gern genutzt wird.
+Moderator: Sind zufriedene Mitarbeiter produktiver?
+Elena Palisch: Auf jeden Fall! Arbeitnehmer, die ihren Arbeitsalltag entsprechend ihrer Bedürfnisse gestalten können, sind viel motivierter und produktiver. Und sie bleiben länger im Unternehmen. Es gibt Untersuchungen, die das bestätigen. Und wir bemerken es täglich.
+Moderator: Frau Palisch, vielen Dank für das Gespräch.
+Elena Palisch: Sehr gern.
+`````
+
+`````
+
+`````
+
+`````
+Sonst hätten wir ja sicher auch nicht gewonnen.
+Otherwise we certainly wouldn't have won.
+不然我们肯定赢不了。
+Grammatik: Konjunktiv 2 in der Vergangenheit
+
+⬤ Konjunktiv 2 - Originalform [origi`na:l]
+小规律：Präteritum + Umlaut = Konjunktiv 2
+können – könnte, müssen – müsste, dürfen – dürfte
+wollen – wollte  (kein Umlaut)
+sollen – sollte (kein Umlaut)
+sein - wäre, haben - hätte, wissen – wüsste, kommen – käme
+gehen  – ginge (kein Umlaut)
+⬤ Konjunktiv 2 - Ersatzform
+würde + Infinitiv
+⬤ Konjunktiv 2 in der Vergangenheit
+wäre/hätte + Partizip II
+表示在过去没有发生的事情
+
+https://www.sprachschule-aktiv-wien.at/konjunktiv-2/
+`````
 
 # 17_L18_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/17_L18_2a_b.mp3"></audio>
