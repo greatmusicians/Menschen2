@@ -643,7 +643,35 @@ Elena Palisch: Sehr gern.
 `````
 
 `````
+angemessen 适当的，得体的，相称的
+Das Gehalt ist der Leistung angemessen. 工资所得与劳动付出是相称的。
 
+einführen 采用，推广
+die Phase 阶段，时期
+
+weniger Stunden arbeiten 表示数量，形容词、比较级不加词尾
+
+angehörig 属于……的
+der/die Familienangehörige, ein Familienangehöriger 家庭成员
+
+Elternzeit 育儿假
+sich fortbilden 进修，深造
+vielfältig 多种多样的
+erarbeiten 制定，拟出
+
+das Bedürfnis, -se, 需求，需要
+entsprechend + Dativ, präp. 按照，根据
+文中语法似乎有问题，应该是 entsprechend ihren Bedürfnissen
+??????????????????????????????????
+
+Arbeitsalltag gestalten 安排日常工作
+11 Zeitmanagement Tipps, um Ihren Arbeitsalltag noch produktiver zu gestalten
+11 个时间管理技巧，让您的日常工作更加高效
+
+motiviert 积极的，有积极性的
+Untersuchung 调查，研究
+bestätigen 证实，确认
+bemerken 发觉，注意到
 `````
 
 `````
@@ -670,6 +698,78 @@ https://www.sprachschule-aktiv-wien.at/konjunktiv-2/
 
 # 17_L18_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/17_L18_2a_b.mp3"></audio>
+
+`````
+Moderatorin: Gestern Nachmittag fand in Leipzig die Siegerehrung des Stadtradeln-Wettbewerbs statt. Teilgenommen hat auch die Firma Caro-trainings. Mein Kollege hatte gestern die Gelegenheit, vor Ort mit dem Geschäftsführer Dr. Simon Peters zu sprechen.
+Außenreporter: Herr Dr. Peters, Sie machen mit Ihrer Firma schon seit einigen Jahren beim Stadtradeln mit. Warum?
+Dr. Simon Peters: Ganz einfach: Wir möchten mit allen unseren Mitarbeitern ein Zeichen gegen Umweltverschmutzung setzen. Wenn mehr Menschen in den Großstädten Fahrrad fahren, ist die Luft besser, es gibt weniger Staus und die Menschen tun etwas für ihre Gesundheit. Dieser Wettbewerb ist für uns eine gute Gelegenheit, um uns für eine klimagerechte Stadt einzusetzen. Umweltschutz geht uns schließlich alle an. Und nicht zuletzt positionieren wir uns dadurch auch als umweltbewusster Arbeitgeber.
+Außenreporter: Dieses Jahr hat es nicht ganz nach oben gereicht - nur der zweite Platz ...
+Dr. Simon Peters: Nun, ich bin sehr stolz auf unser Team! Es war sehr beeindruckend, dass so viele Mitarbeiterinnen und Mitarbeiter mitgemacht haben! Und schließlich gilt: Dabeisein ist alles! Wir freuen uns sehr über den zweiten Platz und werden auch nächstes Jahr wieder mitmachen!
+`````
+
+`````
+Siegerehrung, Sie·ger·eh·rung, 颁奖仪式
+Sieger 优胜者，Ehrung 荣誉
+
+Stadtradeln-Wettbewerb 市内骑行比赛
+radeln 骑自行车
+der Wettbewerb 比赛，竞赛
+die Gelegenheit 时机，机会
+Verschmutzung 污染
+
+gerecht 公平的，合理的，恰当的
+Kilmagerechte Stadt 气候友好型城市
+sich für etwas einsetzen 为……说话，致力于
+angehen 与...有关，涉及；还有其他很多含义。。。。
+stolz auf jn/etw. sein 为……感到自豪的，骄傲的
+beeindruckend 令人印象深刻的
+`````
+
+`````
+Wir möchten mit allen unseren Mitarbeitern ein Zeichen gegen Umweltverschmutzung setzen. 
+We would like to set an example against environmental pollution with all of our employees.
+
+jmd. setzt ein Zeichen (gegen, für etw.)
+öffentlich sichtbar bzw. öffentlichkeitswirksam eine symbolische Handlung vollziehen und damit (in einer Debatte, Auseinandersetzung, Krise) eindeutig (für oder gegen etw.) Position beziehen bzw. jmdn., etw. unterstützen
+以公开可见或公开的方式进行象征性行为，从而（在辩论、争论、危机中）采取明确的立场（支持或反对某事）或支持某人、某事
+
+https://www.dwds.de/wb/ein%20Zeichen%20setzen
+`````
+
+`````
+Umweltschutz geht uns schließlich alle an.
+归根结底，环境保护关系到我们所有人。
+
+angehen 与...有关，涉及；还有其他很多含义。。。。
+Das geht mich nichts an. 这与我毫不相干。
+`````
+
+`````
+Und nicht zuletzt positionieren wir uns dadurch auch als umweltbewusster Arbeitgeber.
+尤其是，通过这样做，我们将自己定位为具有环保意识的雇主。
+
+nicht zuletzt 也；尤其，特别
+positionieren 定位，安置
+`````
+
+`````
+Und schließlich gilt: Dabeisein ist alles!
+
+Schließlich gilt: Gleiches Recht für alle! 毕竟：每个人都享有平等的权利！
+
+要强调某个事物非常重要时，最简单的口语表达就是XXX ist alles。比如，
+Dabei sein ist alles. 重在参与
+Familie ist alles. 家庭最重要
+Liebe ist alles. 爱情最重要
+Durchhalten ist alles. 贵在坚持，坚持就是胜利
+
+https://zhuanlan.zhihu.com/p/663040415
+`````
+
+`````
+letztes/nächstes Jahr, im letzten/nächsten Jahr
+搜了一下，都可以
+`````
 
 # 18_L19_1b.mp3
 <audio controls loop src="B1_Berufstrainer/18_L19_1b.mp3"></audio>
