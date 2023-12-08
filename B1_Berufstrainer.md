@@ -774,12 +774,144 @@ letztes/nächstes Jahr, im letzten/nächsten Jahr
 # 18_L19_1b.mp3
 <audio controls loop src="B1_Berufstrainer/18_L19_1b.mp3"></audio>
 
+`````
+Bodenpersonal: Achtung, Achtung! Alle Passagiere, gebucht auf Lufthansa, Flug LH 2171 nach München, werden zum Flugsteig B45 gebeten. Ich wiederhole: Alle Passagiere, gebucht auf Lufthansa, Flug LH 2171 nach München, werden zum Flugsteig B45 gebeten.
+`````
+
+`````
+werden zum Flugsteig gebeten
+
+bitten ===>>> gebeten
+被请求到哪里去
+
+广播寻人也是这样说
+ACHTUNG, ACHTUNG! Eine Durchsage: Katta und seine Freunde werden zum Flugsteig gebeten!
+`````
+
 # 19_L20_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/19_L20_2a_b.mp3"></audio>
+
+`````
+Rezeptionist: Herzlich willkommen. Was kann ich für Sie tun?
+Hotelgast: Guten Tag. Ich habe bei Ihnen ein Zimmer reserviert. Auf den Namen Doorlag. D-O-O-R-L-A-G.
+Rezeptionist: Einen Augenblick. Ein Einzelzimmer für zwei Nächte, ist das richtig?
+Hotelgast: Ja, bis übermorgen.
+Rezeptionist: Wenn Sie bitte dieses Anmeldeformular ausfüllen würden? Und dann benötige ich noch Ihren Personalausweis.
+Hotelgast: Bitte sehr.
+Rezeptionist: Hier ist Ihr Zimmerschlüssel. Sie haben das Zimmer 312.
+Hotelgast: In welcher Etage?
+Rezeptionist: In der dritten. Sie können die Treppe oder den Aufzug nehmen. Die Treppe befindet sich dort hinten rechts, der Lift gleich hinter Ihnen.
+Hotelgast: Ab wann gibt es Frühstück? Ich habe morgen sehr früh einen Termin …
+Rezeptionist: Frühstücken können Sie bei uns ab 7 Uhr in unserem Restaurant in der ersten Etage.
+Hotelgast: Vielen Dank. Ach ja, und ich brauche unbedingt Zugang zum Internet. Wie funktioniert das bei Ihnen?
+Rezeptionist: Alle unsere Gäste haben bei uns kostenlos Internet. In Ihrem Zimmer finden Sie das Passwort, mit dem Sie sich einfach auf Ihrem mobilen Gerät in unser Internet einloggen können. Falls es Probleme geben sollte, dann rufen Sie einfach hier an der Rezeption an.
+Hotelgast: Sehr freundlich, vielen Dank.
+Rezeptionist: Einen schönen Aufenthalt bei uns!
+Hotelgast: Danke.
+`````
+
+`````
+benötigen 需要
+der Zugang 入口
+der Aufenthalt 停留(期间),逗留(期间)
+`````
+
+`````
+benötigen vs. brauchen
+
+It means the same, but it doesn't sound natural im every use.
+"Benötigen" is used often for materials and so on.
+- Ich benötige mehr Zucker.
+- Ich benötige mehr Fakten.
+- Ich benötige ein Auto mit großem Kofferraum.
+
+"Brauchen" is used in nearly every situation.
+
+所以，用brauchen肯定没问题，只有很少情况下可以使用benötigen
+
+https://de.hinative.com/questions/13273849
+`````
+
+`````
+Die Treppe befindet sich dort hinten rechts, der Lift gleich hinter Ihnen.
+
+sich befinden 处于，在
+
+hinten, adv., back
+hinter, präp., behind
+
+在这句话中，很巧妙，hinten rechts用介词就不太好表达出来，用副词就可以直接堆叠在dort后面。
+`````
 
 # 20_L22_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/20_L22_2a_b.mp3"></audio>
 
+`````
+Moderator: Liebe Zuhörerinnen und Zuhörer, für unsere Radiosendung „Beruf und Karriere“ waren wir in ganz Deutschland unterwegs und haben mit verschiedenen Menschen über ihre berufliche Situation gesprochen. Wir möchten Ihnen jetzt drei Menschen vorstellen, die uns von sich und ihrem Berufsleben berichtet haben.
+Isabel Krämer: Mein Name ist Isabel Krämer. Ich arbeite seit acht Jahren bei Unitex in Stuttgart. Das ist ein Unternehmen, das Schuhe produziert. Ich bin dort in der Personalabteilung. Unitex hat drei Filialen in Stuttgart, Hamburg und Rostock und insgesamt mehr als 500 Mitarbeiter. Dabei wurde die Firma erst vor zehn Jahren gegründet. Sie ist wirklich sehr schnell gewachsen ... Deshalb haben wir in der Personalabteilung auch immer jede Menge zu tun!
+Reinhard Diebold: Hallo, ich bin Reinhard Diebold. Ich arbeite als Servicemitarbeiter bei Safini, einer Firma, die große Druckmaschinen herstellt. Der Sitz der Firma ist in Paris, aber auch hier in Hannover gibt es eine Filiale, bei der ich angestellt bin. Ich reise viel herum und repariere Maschinen von Safini, die kaputtgegangen sind. Leider hat die Firma seit ein paar Jahren Schwierigkeiten. Sie müssen immer mehr Mitarbeiter entlassen. Ich habe nur noch ein paar Jahre bis zum Ruhestand, und ich hoffe, dass ich so lange noch bei Safini bleiben kann.
+Gülcan Kuru: Ich heiße Gülcan Kuru. Ich habe gerade die Stelle gewechselt und arbeite seit zwei Wochen bei Biokult, einem kleinen Laden, der biologisch angebaute und verarbeitete Lebensmittel verkauft. Der Inhaber heißt Milan Nowitsch und ist jeden Tag mit im Laden. Wir sind insgesamt fünf Mitarbeiter. Der Laden wurde erst letztes Jahr eröffnet. Er befindet sich in der Wettiner Straße in Berlin. Kommen Sie doch mal vorbei!
+`````
+
+`````
+die Filiale [fi`lia:lə] 分店，分公司
+herstellen 制造，生产
+der Sitz 所在地，驻地
+entlassen 解雇
+der Ruhestand 退休，退役；静止状态
+
+anbauen 种植，栽培
+verarbeiten 加工，制作
+biologisch angebaute und verarbeitete Lebensmittel
+有机种植和加工的食品
+
+der Inhaber 持有人，所有人，店主，老板
+
+mit im Laden
+不清楚mit是什么语法，但可以理解这个意思：就是在店里待着、看着、工作着，强调的不是物理位置意义上的“在店里面”
+`````
+
+`````
+Wir möchten Ihnen jetzt drei Menschen vorstellen, die uns von sich und ihrem Berufsleben berichtet haben.
+
+We would now like to introduce you to three people who told us about themselves and their professional lives.
+现在，我们想向您介绍三位向我们介绍自己和职业生涯的人。
+
+j-m etw. berichten 向某人告知某事
+uns 应该是Dativ，类似 mir eine E-Mail schicken 中的 Dativ
+
+berichten 也可以不加介词，直接当及物动词使用，但似乎只用于学术文章中
+man findet sie häufig in wissenschaftlichen Kontexten, wo Ergebnisse, Erfahrungen und dergleichen vorgetragen werden
+
+日常生活中还是习惯加介词
+berichten von: etwas Neues / Unbekanntes erzählen
+berichten über: etwas Bekanntes genauer beschreiben
+
+https://de.hinative.com/questions/22775008
+https://german.stackexchange.com/questions/58269/berichten-%C3%BCber-vs-berichten
+`````
+
+`````
+Deshalb haben wir in der Personalabteilung auch immer jede Menge zu tun!
+That's why we always have a lot to do in the human resources department!
+这就是为什么我们人力资源部门总是有很多事情要做！
+
+jede Menge
+umgangssprachlich: sehr viel, in großer Zahl
+
+https://de.wiktionary.org/wiki/jede_Menge
+`````
+
 # 21_L24_1a_b.mp3
 <audio controls loop src="B1_Berufstrainer/21_L24_1a_b.mp3"></audio>
 
+`````
+Christiane: Stellt euch vor, ich hatte einen lustigen Traum. Ich war in dem Traum bestimmt zehn Jahre älter und Chefin in meiner Firma. Und meine Chefin …. war meine Angestellte.
+Peter: Das ist ja lustig!
+Henri: Stellst du dir deine berufliche Zukunft so vor, Christiane? Sagen wir, in zehn Jahren?
+Christiane: Eigentlich nicht … Ich bin sehr zufrieden damit, wie es ist. Vielleicht werde ich noch eine bessere Position bekommen, mal ein Team oder ein großes Projekt leiten. Und ein bisschen mehr Gehalt, dann wäre ich schon glücklich. Und was ist mit dir, Henri?
+Henri: In zehn Jahren soll es noch so sein wie jetzt. Ihr wisst ja: Ich liebe meinen Job! Ich mache das, was ich immer machen wollte, und das bei einem Unternehmen, das mir die besten Bedingungen bietet. Das kann von mir aus bis zum Ruhestand so bleiben.
+Peter: Na, du hast ja auch wirklich ein Riesenglück mit deiner Firma.
+Henri: Und was ist mit dir, Peter?
+Peter: Ach … In zehn Jahren werde ich hoffentlich etwas ganz Anderes machen als jetzt. Einen neuen Beruf, mehr Abwechslung, vielleicht sogar im Ausland. Mal sehen.
+`````
