@@ -915,3 +915,49 @@ Peter: Na, du hast ja auch wirklich ein Riesenglück mit deiner Firma.
 Henri: Und was ist mit dir, Peter?
 Peter: Ach … In zehn Jahren werde ich hoffentlich etwas ganz Anderes machen als jetzt. Einen neuen Beruf, mehr Abwechslung, vielleicht sogar im Ausland. Mal sehen.
 `````
+
+`````
+Stellt euch vor, ...
+你们想象一下（sich vorstellen 的 Imperativ 形式）
+
+der Riese 巨人，巨兽
+Riesenglück 巨大的幸运
+
+Abwechslung 多样性，变化，交替，消遣
+
+Mal sehen.
+Let's see.
+再说吧，看看（再决定）吧，是一种一时还做不了决定的语气
+`````
+
+`````
+Ich bin sehr zufrieden damit, wie es ist.
+我对现在的情况非常满意。
+
+damit 就是 mit + 后面的从句
+
+wie es ist 是现在时，表示现在的情形
+`````
+
+`````
+Das kann von mir aus bis zum Ruhestand so bleiben.
+As far as I'm concerned, it can stay that way until retirement.
+
+Was bedeutet „von mir aus“?
+
+Meinetwegen!
+Das können wir (von mir aus) so machen.
+Von mir aus kannst du verschwinden.
+
+meinetwegen 为了我（的缘故）。就我来说。从我来看。
+
+Es bedeutet "Ja", aber mit Widerwillen oder Gleichgültigkeit:
+Ich bin damit mehr oder weniger einverstanden.
+Es gefällt mir nicht, aber von mir aus machen wir es so.
+Wollen wir was spielen? Von mir aus (ja)...
+
+mit Widerwille 勉强地
+Gleichgültigkeit 不在乎，漫不经心
+
+https://de.hinative.com/questions/17097972
+`````
