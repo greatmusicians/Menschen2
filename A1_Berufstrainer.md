@@ -1,7 +1,7 @@
 # 01_L1_1b.mp3
 <audio controls loop src="A1_Berufstrainer/01_L1_1b.mp3"></audio>
 
-`````
+`````de
 Chef: Guten Tag, Frau Müller. Wie geht es Ihnen?
 Frau Müller: Gut, danke! Und Ihnen?
 Chef: Sehr gut.
@@ -17,7 +17,7 @@ Herr Rijkaard: Aus Rotterdam.
 # 03_L2_1c.mp3
 <audio controls loop src="A1_Berufstrainer/03_L2_1c.mp3"></audio>
 
-`````
+`````de
 Frau Schmidt: Guten Tag, Herr Maganto. Herzlich willkommen bei X-Media!
 Herr Maganto: Guten Tag, Frau Schmidt.
 Frau Schmidt: Wie geht es Ihnen?
@@ -29,7 +29,7 @@ Frau Bailey: Guten Tag, Herr Maganto. Herzlich willkommen.
 # 04_L2_2.mp3
 <audio controls loop src="A1_Berufstrainer/04_L2_2.mp3"></audio>
 
-`````
+`````de
 Frau Schmidt: Liebe Mitarbeiterinnen, liebe Mitarbeiter, ich möchte Ihnen unseren neuen Kollegen, Herrn Maganto, vorstellen: Herr Maganto kommt aus Spanien, aus Madrid. Seine Familie wohnt noch in Madrid – er hat schon zwei kleine Kinder. Herr Maganto wohnt aber hier in Berlin. Er ist Mathematiker von Beruf. Er kennt sich gut mit Software und Computern aus und arbeitet bei uns in der Firma als IT-Fachmann. Wir hoffen auf eine gute Zusammenarbeit! Herzlich willkommen, Herr Maganto!
 `````
 
@@ -45,7 +45,7 @@ sich mit Computern (gut) auskennen
 # 05_L2_3.mp3
 <audio controls loop src="A1_Berufstrainer/05_L2_3.mp3"></audio>
 
-`````
+`````de
 Frau Kunze: Guten Tag, Frau Matin.
 Véronique Matin: Guten Tag, Frau Kunze.
 Frau Kunze: Frau Matin, wie geht es Ihnen hier in Frankfurt?
@@ -69,7 +69,7 @@ Véronique Matin: Danke! Auf Wiedersehen.
 # 06_L3_4a_b.mp3
 <audio controls loop src="A1_Berufstrainer/06_L3_4a_b.mp3"></audio>
 
-`````
+`````de
 Herr Lambert: Guten Tag, Frau Nikopolidou.
 Daphne: Guten Tag, Herr Lambert.
 Herr Lambert: Frau Nikopolidou, Sie möchten ein Praktikum bei uns in der Adler-Apotheke machen. Wir sind eine große Apotheke mit fünf Mitarbeitern. Ein Praktikum bei uns ist sicherlich interessant. Aber … erzählen Sie ein bisschen von sich.
@@ -84,7 +84,7 @@ Herr Lambert: Das ist gut. Haben Sie noch Fragen?
 # 07_L4_1b_c.mp3
 <audio controls loop src="A1_Berufstrainer/07_L4_1b_c.mp3"></audio>
 
-`````
+`````de
 Verkäuferin: IT-Media, Nina Müller. Guten Tag.
 Kunde: Guten Tag, Frau Müller. Hier ist Seifert.
 Verkäuferin: Guten Tag, Herr Seifert.
@@ -99,7 +99,7 @@ Verkäuferin: Gern, auf Wiederhören.
 # 08_L4_2a_3b.mp3
 <audio controls loop src="A1_Berufstrainer/08_L4_2a_3b.mp3"></audio>
 
-`````
+`````de
 Verkäufer: Bitte schön? Brauchen Sie Hilfe?
 Kunde: Ja, bitte. Der Drucker hier … Ist der Drucker denn gut?
 Verkäufer: Ja. Der Drucker ist modern und technisch hochwertig. Und er druckt farbig!
@@ -116,7 +116,7 @@ Verkäufer: Ja, das ist auch ein Laserdrucker. Er druckt nicht farbig, nur schwa
 # 09_L5_2a.mp3
 <audio controls loop src="A1_Berufstrainer/09_L5_2a.mp3"></audio>
 
-`````
+`````de
 Frau: Herr Lecht, wir brauchen dringend weißes Kopierpapier und Kugelschreiber. Büro & Co. hat gerade Sonderangebote.
 Mann: Gut. Wie viel Papier brauchen wir? So 4000 Blatt? Was meinen Sie?
 Frau: Ja, 4000 Blatt, weiß, das sind … 4000 Blatt sind … acht Pack.
@@ -133,7 +133,7 @@ Frau: Gut, dann bestelle ich das jetzt sofort. Das kostet dann alles zusammen 66
 # 10_L5_4b.mp3
 <audio controls loop src="A1_Berufstrainer/10_L5_4b.mp3"></audio>
 
-`````
+`````de
 Herr Barnier: Büro & Co., Barnier. Guten Tag.
 Herr Meier: Rolf Meier, IT-Media. Guten Tag, Herr Barnier. Ich brauche Kugelschreiber.
 Herr Barnier: Gern. Wie viele brauchen Sie?
@@ -150,7 +150,7 @@ Herr Barnier: Auf Wiederhören.
 # 11_L6_1b.mp3
 <audio controls loop src="A1_Berufstrainer/11_L6_1b.mp3"></audio>
 
-`````
+`````de
 Frau Klose: Aha, interessant. … Und wer arbeitet hier?
 Chef: Das ist das Büro von Frau Gordon. Sie ist unsere jüngste Mitarbeiterin. Sie ist seit zwei Jahren in unserer Firma. Frau Gordon ist erst 18 Jahre alt und unsere Auszubildende. Sie macht eine Ausbildung zur Bürokauffrau. Sehen Sie da hinten das Skateboard? Frau Gordon ist eine große Skaterin. Skaten ist ihr Hobby und auch ihr Sport. Sie kommt nicht mit dem Bus zur Arbeit, nein: sie kommt mit dem Skateboard. Frau Gordon kennt die Firma …
 `````
@@ -158,7 +158,7 @@ Chef: Das ist das Büro von Frau Gordon. Sie ist unsere jüngste Mitarbeiterin. 
 # 12_L6_4b.mp3
 <audio controls loop src="A1_Berufstrainer/12_L6_4b.mp3"></audio>
 
-`````
+`````de
 Herr Schwan: Fabian Schwan, hallo.
 Frau Klose: Hier ist Carina Klose. Guten Tag, Herr Schwan. Ich brauche Büromaterial.
 Herr Schwan: Guten Tag, Frau Klose. Was brauchen Sie denn?
@@ -172,7 +172,7 @@ Frau Klose: Auf Wiederhören.
 # 13_L7_1b.mp3
 <audio controls loop src="A1_Berufstrainer/13_L7_1b.mp3"></audio>
 
-`````
+`````de
 Katrin Eibisch: Hallo. Arbeiten Sie auch hier?
 Tugba Aydin: Ja, hallo.
 Katrin Eibisch: Ich heiße Katrin, Katrin Eibisch. Ich arbeite in der Küche.
@@ -187,7 +187,7 @@ Katrin Eibisch: Wir können gern auch du sagen …
 # 14_L7_4a.mp3
 <audio controls loop src="A1_Berufstrainer/14_L7_4a.mp3"></audio>
 
-`````
+`````de
 Sara Sommer: Guten Tag, Herr Sánchez.
 Marco Sánchez: Guten Tag, Frau Sommer.
 Sara Sommer: Herr Sánchez …, Frau Aydin kann heute nicht arbeiten Ich brauche Ihre Hilfe. Können Sie heute bitte mal am Empfang arbeiten?
@@ -197,7 +197,7 @@ Marco Sánchez: Oh, am Empfang? Ich weiß nicht – ich arbeite immer im Restaur
 # 15_L7_4b.mp3
 <audio controls loop src="A1_Berufstrainer/15_L7_4b.mp3"></audio>
 
-`````
+`````de
 Marco Sánchez: Oh, am Empfang? Ich weiß nicht – ich arbeite immer im Restaurant. Ich bin Kellner, ich kann nicht am Empfang arbeiten.
 Sara Sommer: Das können Sie bestimmt, Herr Sánchez. Sie können doch telefonieren?
 Marco Sánchez: Ja, ich kann natürlich telefonieren. Ich bin auch immer freundlich.
@@ -221,7 +221,7 @@ Sara Sommer: Danke, Herr Sánchez. Sie helfen mir sehr.
 # 16_L9_5b.mp3
 <audio controls loop src="A1_Berufstrainer/16_L9_5b.mp3"></audio>
 
-`````
+`````de
 Kellner: Guten Tag. Was möchten Sie essen?
 Gast: Ich bin Vegetarierin. Woraus ist das Gemüseschnitzel?
 Kellner: Das Gemüseschnitzel ist aus BioGemüse und Ei.
@@ -243,7 +243,7 @@ Schnitzel 煎牛排
 # 17_L10_1.mp3
 <audio controls loop src="A1_Berufstrainer/17_L10_1.mp3"></audio>
 
-`````
+`````de
 Herr Jasper: H&K GmbH, Jens Jasper. Guten Tag.
 Frau Münch: Hallo, Herr Jasper, hier ist Sofia Münch.
 Herr Jasper: Ach, Frau Münch, haben Sie nicht frei und besuchen Ihre Eltern in Hamburg? 
@@ -284,7 +284,7 @@ auf der Reise sein, auf Reisen sein (Reisen: Pl. Dat.)
 # 18_L10_3a.mp3
 <audio controls loop src="A1_Berufstrainer/18_L10_3a.mp3"></audio>
 
-`````
+`````de
 Frau: Guten Tag. Sie wünschen?
 Mann: Ich möchte eine Fahrkarte von Hannover nach Leipzig.
 Frau: Von Hannover nach Leipzig. – Möchten Sie eine einfache Fahrt oder Hin- und Rückfahrt.
@@ -305,14 +305,14 @@ Frau: Okay, hier habe ich eine Verbindung. Also: Sie steigen in Hannover …
 # 19_L10_3b.mp3
 <audio controls loop src="A1_Berufstrainer/19_L10_3b.mp3"></audio>
 
-`````
+`````de
 Frau: Sie steigen in Hannover auf Gleis 10 ein. Der Zug fährt um 15.36 Uhr ab. Sie fahren dann bis Magdeburg. Dort kommen Sie um 16.57 Uhr auf Gleis 7 an. Dann steigen Sie um. Der Zug nach Leipzig fährt um 17.03 Uhr auf Gleis 3 ab. Sie kommen um 18.19 Uhr in Leipzig an.
 `````
 
 # 20_L11_2b_c.mp3
 <audio controls loop src="A1_Berufstrainer/20_L11_2b_c.mp3"></audio>
 
-`````
+`````de
 Frau Wolf: Firma DIGISOFT, Irma Wolf. Guten Tag.
 Herr Klei: Guten Tag, Frau Wolf, hier ist Thomas Klei von der Firma Ökostrom. Ich möchte gern Frau Diskul sprechen.
 Frau Wolf: Das geht leider nicht. Frau Diskul ist in einer Besprechung.
@@ -328,7 +328,7 @@ Herr Klei: Auf Wiederhören.
 # 21_L11_2b_c.mp3
 <audio controls loop src="A1_Berufstrainer/21_L11_2b_c.mp3"></audio>
 
-`````
+`````de
 Frau Wolf: Firma DIGISOFT, Irma Wolf. Guten Tag.
 Frau Baumann: Baumann von der Firma Brenner hier. Guten Tag, Frau Wolf. Ich möchte gern einen Termin mit Frau Diskul. Heute noch. Geht es um 16 Uhr?
 Frau Wolf: 16 Uhr ist schlecht, Frau Baumann. Da hat sie schon einen anderen Termin. Geht es auch um 17.30 Uhr?
@@ -341,7 +341,7 @@ Frau Wolf: Auf Wiederhören, Frau Baumann.
 # 22_L11_2b_c.mp3
 <audio controls loop src="A1_Berufstrainer/22_L11_2b_c.mp3"></audio>
 
-`````
+`````de
 Frau Wolf: Firma DIGISOFT, Irma Wolf. Guten Tag.
 Herr Diskul: Hallo, Frau Wolf. Diskul hier.
 Frau Wolf: Ah, guten Tag, Herr Diskul. Wie geht es Ihnen?
@@ -354,7 +354,7 @@ Frau Wolf: Tschüs, Herr Diskul.
 # 23_L12_1b.mp3
 <audio controls loop src="A1_Berufstrainer/23_L12_1b.mp3"></audio>
 
-`````
+`````de
 Personaler: Guten Tag, Frau Abedi.
 Karima Abedi: Guten Tag.
 Personaler: Setzen Sie sich doch.
@@ -370,7 +370,7 @@ Karima Abedi: Ich spreche natürlich Arabisch. Das habe ich von meinen Eltern ge
 # 24_L13_2a_b.mp3
 <audio controls loop src="A1_Berufstrainer/24_L13_2a_b.mp3"></audio>
 
-`````
+`````de
 Frau Wild: Herzlich willkommen, Frau Gaida. Ich helfe Ihnen gern. Sie können mich immer fragen.
 Frau Gaida: Vielen Dank, Frau Wild. Das ist sehr nett. … Entschuldigung, Frau Wild, ich suche einen Ordner.
 Frau Wild: Ordner sind links im Regal unter den Büchern.
@@ -388,7 +388,7 @@ Frau Gaida: Ach ja. Ich habe sie nicht gesehen. Danke, Frau Wild.
 # 26_L14_1b.mp3
 <audio controls loop src="A1_Berufstrainer/26_L14_1b.mp3"></audio>
 
-`````
+`````de
 Frau Schubert: Guten Tag, Schubert mein Name.
 Empfangssekretär: Guten Tag, Frau Schubert.
 Frau Schubert: Ich möchte zur Jahreskonferenz.
@@ -403,7 +403,7 @@ Frau Schubert: Vielen Dank. Ich finde ihn jetzt bestimmt. Sonst komme ich eben n
 # 27_L15_3a_b_c.mp3
 <audio controls loop src="A1_Berufstrainer/27_L15_3a_b_c.mp3"></audio>
 
-`````
+`````de
 Moderatorin: Guten Morgen meine Damen und Herren, 7 Uhr 30. Viele Menschen gehen gerade zur Arbeit. Unser Reporter ist in Berlin unterwegs. Unser Thema heute: Wie gefällt Ihnen Ihr Beruf? Unser Reporter Jan Falk fragt Menschen auf der Straße. – Jan, hörst du mich?
 Reporter: Ja, hallo Andrea, ja, ich höre dich. Neben mir steht Herr Tacke. Guten Morgen, Herr Tacke. Was sind Sie von Beruf und wie gefällt Ihnen Ihr Beruf?
 Herr Tacke: Ich bin Erzieher und arbeite im Kindergarten. Ich finde meinen Beruf super: Ich arbeite gern mit Menschen, besonders mit Kindern. Kinder sind einfach toll. Wir spielen, singen und lernen zusammen. Das macht Spaß. Die Tätigkeit ist sehr verantwortungsvoll und auch sehr interessant und abwechslungsreich. Und mir gefällt auch: Ich kann viel selbstständig arbeiten. Auch meine Kolleginnen im Kindergarten sind sehr nett. Wir sind ein tolles Team. Jetzt muss ich aber schnell weg, sonst komme ich zu spät.
@@ -413,7 +413,7 @@ Reporter: Danke, Herr Tacke.
 # 28_L15_3a_b_c.mp3
 <audio controls loop src="A1_Berufstrainer/28_L15_3a_b_c.mp3"></audio>
 
-`````
+`````de
 Reporter: Danke, Herr Tacke. – Und hier ist Frau Öznur. Frau Öznur: Wie gefällt Ihnen Ihre Arbeit?
 Frau Öznur: Nicht so gut. Ich arbeite in einem Call-Center, als Telefonistin. Wissen Sie, wir arbeiten im Schichtdienst. Das gefällt mir nicht. Manchmal habe ich Frühdienst, dann muss ich um 6 Uhr arbeiten, manchmal Nachtdienst, dann arbeite ich ab 22 Uhr. Dann bin ich immer müde. Und ich habe am Tag keine Zeit für meine drei Kinder. Den ganzen Tag telefonieren, immer freundlich sein – das ist stressig. Und das Gehalt ist schlecht.
 Reporter: Vielen Dank, Frau Öznur. Noch einen schönen Tag.
@@ -422,7 +422,7 @@ Reporter: Vielen Dank, Frau Öznur. Noch einen schönen Tag.
 # 29_L15_3a_b_c.mp3
 <audio controls loop src="A1_Berufstrainer/29_L15_3a_b_c.mp3"></audio>
 
-`````
+`````de
 Reporter: Noch einen schönen Tag. – Neben mir steht jetzt Frau Thieme. Guten Tag, Frau Thieme. Was sind Sie denn von Beruf und wie finden Sie denn Ihre Arbeit?
 Frau Thieme: Ich habe einen schönen Beruf. Ich bin Flugbegleiterin. Die Arbeit macht mir Spaß. Heute bin ich in London, morgen in Paris, dann in Istanbul. Ich sehe viel von der Welt. Nicht so schön ist die Arbeitszeit: Wir arbeiten im Schichtdienst und manchmal arbeiten wir auch am Wochenende. Manchmal kann ich zwei Wochen keine Freunde treffen. Am Wochenende haben sie frei und ich arbeite. Die Arbeit ist auch anstrengend. Aber langweilig ist sie nicht.
 Reporter: Vielen Dank, Frau Thieme. Das war es heute aus unserer Reihe „Jan Falk unterwegs in Berlin.“ – Und nun zurück ins Studio.
@@ -431,7 +431,7 @@ Reporter: Vielen Dank, Frau Thieme. Das war es heute aus unserer Reihe „Jan Fa
 # 30_Modul_6.mp3
 <audio controls loop src="A1_Berufstrainer/30_Modul_6.mp3"></audio>
 
-`````
+`````de
 Gespräch 1
 Frau Löben: Herr Kern, es ist schon 17 Uhr und Ihr Angebot für den Kunden ist immer noch nicht da.
 Herr Kern: Entschuldigung, Frau Löben, ich mache das sofort fertig.
@@ -458,7 +458,7 @@ Frau 1: Gut, nicht? Du, ist die Kaffeemaschine schon sauber?
 # 31_L16_1b.mp3
 <audio controls loop src="A1_Berufstrainer/31_L16_1b.mp3"></audio>
 
-`````
+`````de
 Hier ist die Mailbox von Peter Teich, Schlüsseldienst. Ich bin im Moment leider telefonisch nicht erreichbar. Sie können aber nach dem Signalton eine Nachricht hinterlassen.
 
 Guten Tag. Sie sind verbunden mit der Firma Hansa GmbH. Wir sind im Moment nicht erreichbar. Sie können aber nach dem Signalton Ihren Namen und Ihre Telefonnummer hinterlassen. Wir rufen Sie gern zurück! Vielen Dank!
@@ -469,7 +469,7 @@ Guten Tag. Sie sind verbunden mit der Inter-Telefon GmbH. Leider rufen Sie auße
 # 32_L16_2a_b.mp3
 <audio controls loop src="A1_Berufstrainer/32_L16_2a_b.mp3"></audio>
 
-`````
+`````de
 AB-Ansage: Donnerstag, der 16. Juni, 8.30 Uhr.
 Frau: Guten Morgen, Ina Lech hier, von der Bau KG. Ich habe eine Nachricht für Frau Schulz. Es geht um den Termin. Am 20. Juni kann ich leider nicht. Ich bin ab morgen für eine Woche im Urlaub. Wir können gern im Juli einen Termin machen. Ich kann am Mittwoch, den 2. Juli. Geht es um 10 Uhr? Bitte rufen Sie zurück. Meine Nummer ist 0172 / 91 82 731. Ich bin noch bis 17 Uhr erreichbar. Vielen Dank, auf Wiederhören.
 `````
@@ -477,7 +477,7 @@ Frau: Guten Morgen, Ina Lech hier, von der Bau KG. Ich habe eine Nachricht für 
 # 33_L16_2a_b.mp3
 <audio controls loop src="A1_Berufstrainer/33_L16_2a_b.mp3"></audio>
 
-`````
+`````de
 AB-Ansage: Donnerstag, der 16. Juni, 8.44 Uhr.
 Mann: Hallo, hier ist Jan Küpers. Ich habe ein Problem: Heute ist ja um 10 Uhr die Teambesprechung. Ich habe aber um 9.30 Uhr einen Kinderarzttermin für meine Tochter. Sie ist krank. Ich kann leider nicht pünktlich zur Teambesprechung kommen. Ich bin erst in zwei Stunden da. Bitte sagen Sie Herrn Breit Bescheid. Vielen Dank! Auf Wiederhören.
 `````
@@ -485,7 +485,7 @@ Mann: Hallo, hier ist Jan Küpers. Ich habe ein Problem: Heute ist ja um 10 Uhr 
 # 34_L16_2a_b.mp3
 <audio controls loop src="A1_Berufstrainer/34_L16_2a_b.mp3"></audio>
 
-`````
+`````de
 AB-Ansage: Donnerstag, der 16. Juni, 8.46 Uhr.
 Mann: Guten Morgen, hier ist Schäfer von der Bau KG. Ich habe eine Nachricht für Herrn Breit aus dem Versand. Es geht um die Lieferung. Sie haben nur 10 Pack Kopierpapier geliefert. Wir haben aber 30 bestellt und 30 Pack stehen auch auf dem Lieferschein. Wir brauchen das Papier dringend. Bitte rufen Sie zurück. Auf Wiederhören.
 `````
@@ -493,7 +493,7 @@ Mann: Guten Morgen, hier ist Schäfer von der Bau KG. Ich habe eine Nachricht f�
 # 35_L18_1a.mp3
 <audio controls loop src="A1_Berufstrainer/35_L18_1a.mp3"></audio>
 
-`````
+`````de
 Herr Rasch: Rasch.
 Herr Klose: Systemdata, Personalabteilung, Meinhard Klose. Guten Tag, Herr Rasch. Sie haben sich bei uns als Programmierer beworben.
 Herr Rasch: Systemdata, Personalabteilung?
@@ -503,7 +503,7 @@ Herr Klose: Ja, Herr Rasch. Ich bin der Personalchef von Systemdata. Ich habe ei
 # 36_L18_1b.mp3
 <audio controls loop src="A1_Berufstrainer/36_L18_1b.mp3"></audio>
 
-`````
+`````de
 Herr Rasch: Systemdata, Personalabteilung?
 Herr Klose: Ja, Herr Rasch. Ich bin der Personalchef von Systemdata. Ich habe eine gute Nachricht für Sie: Sie bekommen die Stelle als Programmierer.
 Herr Rasch: Ich habe die Stelle? Oh, das ist eine schöne Nachricht. Das freut mich!
@@ -522,7 +522,7 @@ Herr Rasch: Auf Wiederhören.
 # 37_L19_3.mp3 ★★★: 5个W-Frage
 <audio controls loop src="A1_Berufstrainer/37_L19_3.mp3"></audio>
 
-`````
+`````de
 Herr Gerth: K&L ComputerSysteme, Simon Gerth.
 Frau Plews: Plews, guten Tag. Ich möchte einen Word-Kurs machen.
 Herr Gerth: Einen Word-Kurs? Haben Sie Vorkenntnisse?
@@ -545,7 +545,7 @@ Herr Gerth: Gern. Auf Wiederhören.
 # 38_L20_4.mp3
 <audio controls loop src="A1_Berufstrainer/38_L20_4.mp3"></audio>
 
-`````
+`````de
 Hausdame: Guten Morgen.
 Alle: Guten Morgen. Hallo.
 Hausdame: Sind alle da?
@@ -566,7 +566,7 @@ Hausdame: Und dann zur 4. Etage …
 # 39_L21_3b.mp3
 <audio controls loop src="A1_Berufstrainer/39_L21_3b.mp3"></audio>
 
-`````
+`````de
 Frau Brand: Judith Brand, Autohaus Müller. Guten Tag.
 Herr Schlosser: Benno Schlosser, hallo, Frau Brand. Ich kann heute leider nicht arbeiten, ich möchte mich krankmelden.
 Frau Brand: Sie sind krank? Oh, das tut mir leid. Sind Sie nur heute krank oder dauert es ein paar Tage?
@@ -581,7 +581,7 @@ Frau Brand: Auf Wiederhören.
 # 40_L22_2a_b.mp3
 <audio controls loop src="A1_Berufstrainer/40_L22_2a_b.mp3"></audio>
 
-`````
+`````de
 Frau: Kann ich Ihnen behilflich sein?
 Mann: Ja, ich brauche eine bequeme Hose für die Arbeit. Die Hose hier gefällt mir gut. Aus welchem Material ist sie?
 Frau: Das ist eine Stretch-Hose. Sie ist sehr bequem. Sie ist aus 95% Baumwolle und 5% Elasthan.
@@ -603,7 +603,7 @@ Mann: Danke.
 # 41_L23_1b.mp3
 <audio controls loop src="A1_Berufstrainer/41_L23_1b.mp3"></audio>
 
-`````
+`````de
 Frau Wolf: Heute ist es richtig kalt – und das im Mai. Wann kommt endlich der Frühling?
 Herr Eilmann: Ja, das Wetter ist schrecklich. Hoffentlich wird es bald wärmer.
 Herr Martí: Ja, das war ja im letzten Jahr genauso. Da hat es im Mai sogar geschneit. Aber dann ist es schnell warm geworden und wir hatten einen tollen Sommer.

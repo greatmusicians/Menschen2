@@ -1,7 +1,7 @@
 # 01_L1_1b_c.mp3
 <audio controls loop src="B1_Berufstrainer/01_L1_1b_c.mp3"></audio>
 
-`````
+`````de
 Thomas: Hallo Sabrina! So ein Zufall.
 Sabrina: Ach, hallo Thomas. Was machst du denn hier?
 Thomas: Das gleiche wie du: Kaffee trinken!
@@ -67,7 +67,7 @@ Magst du dich zum mir setzen? 用zum基本肯定是错了，应该是zu。
 # 02_L2_1a_b_c.mp3
 <audio controls loop src="B1_Berufstrainer/02_L2_1a_b_c.mp3"></audio>
 
-`````
+`````de
 Pia: Hallo Sabrina!
 Sabrina: Hallo Pia! Schön, dass es heute klappt und du mich von der Arbeit abholst.
 Pia: Finde ich auch. Ich wollte dir doch schon lange mal mein Lieblingsrestaurant in Leipzig zeigen. Wie war dein Tag?
@@ -93,7 +93,7 @@ aufgeregt 激动的，不安的
 # 03_L3_3a_b.mp3
 <audio controls loop src="B1_Berufstrainer/03_L3_3a_b.mp3"></audio>
 
-`````
+`````de
 Clemens Pfeifer: Succeed GmbH, Personalabteilung. Sie sprechen mit Clemens Pfeifer. Was kann ich für Sie tun?
 Sabrina Köhler: Guten Tag, Herr Pfeifer. Hier spricht Sabrina Köhler.
 Clemens Pfeifer: Guten Tag, Frau Köhler.
@@ -125,7 +125,7 @@ die Ursache 原因，理由
 # 04_L4_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/04_L4_2a_b.mp3"></audio>
 
-`````
+`````de
 Gespräch 1
 Gast: Entschuldigung?
 Kellnerin: Ja, bitte?
@@ -237,7 +237,7 @@ Mittelpunkt 中点，重点，核心
 # 05_L5_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/05_L5_2a_b.mp3"></audio>
 
-`````
+`````de
 Kollegin: Richard, sag mal, hast du den Fragebogen schon ausgefüllt?
 Richard: Hm? Welchen Fragebogen?
 Kollegin: Na, den Fragebogen, der gestern per Mail an alle Mitarbeiter ging. Von unserem Praktikanten, der seine Masterarbeit zum Thema „Informationstechnik am Arbeitsplatz“ schreibt. Er untersucht, welche technischen Geräte den Mitarbeitern zur Verfügung stehen und wie häufig sie sie nutzen.
@@ -314,7 +314,7 @@ Okay, you're done with that!
 # 06_L6_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/06_L6_2a_b.mp3"></audio>
 
-`````
+`````de
 1
 Sekretärin: Ein herzliches Dankeschön für Ihre große Hilfe bei unserer Jubiläumsfeier. Alle Mitarbeiter waren begeistert von Ihrem Angebot und Ihrem Service. Dass alles so perfekt gelaufen ist, verdanken wir Ihrer Erfahrung und Professionalität.
 2
@@ -359,7 +359,7 @@ As we say goodbye to our profession, we would like to thank you very much for th
 # 07_L7_3a_b_c.mp3
 <audio controls loop src="B1_Berufstrainer/07_L7_3a_b_c.mp3"></audio>
 
-`````
+`````de
 Verkäufer: Kann ich etwas für Sie tun?
 Kundin: Ich suche einen neuen Wasserkocher und möchte mich bei Ihnen informieren.
 Verkäufer: Sehr gern. Hier hätten wir zwei Modelle im Angebot. Unser Wasserkocher „Sky“ wird gern und oft gekauft. Er ist preiswert und hält viel aus, ist aber sehr klein. Sie müssen auch berücksichtigen, dass er einen etwas höheren Stromverbrauch hat.
@@ -386,7 +386,7 @@ gering 少量的
 # 08_L8_2a_b_c.mp3
 <audio controls loop src="B1_Berufstrainer/08_L8_2a_b_c.mp3"></audio>
 
-`````
+`````de
 Herr Fröhlich: Liebe Zuhörerinnen und Zuhörer, willkommen zu unserer Sendung „Talk am Mittag“, heute zum Thema „Wie finde ich den richtigen Beruf?“. Gast in meiner Sendung heute ist Luise Beier. Frau Beier ist Geschäftsführerin der Berufsberatung Wegweiser in Hamburg. Guten Tag, Frau Beier.
 Luise Beier: Hallo, Herr Fröhlich.
 Herr Fröhlich: Sie leiten seit vier Jahren sehr erfolgreich die Beratungsstelle Wegweiser und haben schon viele junge Menschen auf ihrem Weg ins Berufsleben begleitet. Was ist Ihr Erfolgsrezept?
@@ -440,7 +440,7 @@ What fits depends on your own preferences and ideas.
 # 09_L9_1b_c.mp3
 <audio controls loop src="B1_Berufstrainer/09_L9_1b_c.mp3"></audio>
 
-`````
+`````de
 Silvio Seifert: Guten Tag, meine Damen und Herren. Einige von Ihnen kennen mich ja schon. Mein Name ist Silvio Seifert, ich bin Gesundheitsberater. Wie Sie sicher alle wissen, denkt man in Ihrem Unternehmen darüber nach, Sportangebote einzuführen. Deshalb werde ich heute mit Ihnen über das Thema Betriebssport sprechen. Zunächst möchte ich Ihnen erläutern, was Betriebssport ist. Danach gehe ich auf die Vorteile von Betriebssport ein. Abschließend können Sie gern Fragen stellen. Unter Betriebssport versteht man Sport, der im Betrieb gemacht wird. Der Sport findet regelmäßig statt. Es können alle Sportarten gewählt werden, die man im Betrieb trainieren kann. Sehr beliebt sind zum Beispiel Rückengymnastik und Aerobic. Aber auch viele andere Sportarten sind möglich, wie zum Beispiel Fitness, Yoga und Tanz. Damit komme ich zum nächsten Punkt. Betriebssport hat viele Vorteile. Er schafft für die Mitarbeiter die Möglichkeit, Sportangebote schnell und einfach zu nutzen – nämlich in der Firma. Wenn man Sport macht, fühlt man sich besser und wird weniger oft krank. Außerdem habe ich die Erfahrung gemacht, dass Betriebssport auch für die Beziehung der Kollegen gut ist, was wieder positive Effekte auf das Arbeitsverhältnis hat. Ich bin nun mit meinem kurzen Vortrag am Ende. Ich hoffe, ich konnte Sie davon überzeugen, dass Betriebssport eine gute Sache ist. Haben Sie noch Fragen?
 `````
 
@@ -456,7 +456,7 @@ das Arbeitsverhältnis 工作条件；雇用关系
 # 10_L10_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/10_L10_2a_b.mp3"></audio>
 
-`````
+`````de
 Eva: Hallo Jutta. Guten Appetit. Schön, dass wir uns mal in der Kantine treffen. Darf ich mich zu dir setzen?
 Jutta: Hallo Eva. Natürlich, gern.
 Eva: Ist mit dir alles in Ordnung?
@@ -488,7 +488,7 @@ If only I had listened to my gut and gone twice!
 # 11_L11_1a.mp3
 <audio controls loop src="B1_Berufstrainer/11_L11_1a.mp3"></audio>
 
-`````
+`````de
 Gespräch 1
 Frau: Stell dir vor, heute haben mich meine Kollegen überrascht!
 Mann: Wieso denn?
@@ -545,7 +545,7 @@ habe放在最后，是因为在从句里吗？
 # 12_L13_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/12_L13_2a_b.mp3"></audio>
 
-`````
+`````de
 Tanja Blum: Sie sind mit dem Anschluss von Tanja Blum verbunden. Ich bin im Moment nicht an meinem Platz. Bitte hinterlassen Sie eine Nachricht, ich rufe dann schnellstmöglich zurück.
 Ricarda Hollmann: Guten Tag, Frau Blum, hier ist Ricarda Hollmann aus der Marketingabteilung. Ich hätte eine Bitte. Letzte Woche wurde doch bei uns die neue Software ProMarketing eingeführt. Die Schulung, die die anderen Mitarbeiter bekommen haben, habe ich leider verpasst, weil ich krank war. Und jetzt habe ich Schwierigkeiten mit der Software. Ich würde gern eine Fortbildung beantragen. Und ich bin nicht die Einzige: Mein Kollege Kilian Schulz war im Urlaub. Und nun kommt er mit ProMarketing auch nicht so gut zurecht. Er bräuchte die Fortbildung auch für seine Arbeit. Die Fortbildung würde uns helfen, mit unserer Arbeit schneller voranzukommen. Wir haben das mit unserer Chefin, Frau Buchwald, besprochen. Sie findet diese Fortbildung wäre notwendig, damit wir auf dem gleichen Stand wie die Kollegen sind. Sie ist einverstanden und sagte mir, dass ich Sie deshalb ansprechen soll. Es wäre nett, wenn Sie mich zurückrufen würden. Vielen Dank!
 `````
@@ -584,7 +584,7 @@ Weiterbildung, 有时候可以和Fortbildung通用，但也包含换一个其他
 # 13_L14_1a_b.mp3
 <audio controls loop src="B1_Berufstrainer/13_L14_1a_b.mp3"></audio>
 
-`````
+`````de
 Hannah Bergmann: RWI Trainings, Sie sprechen mit Hannah Bergmann, was kann ich für Sie tun?
 Elias Martens: Guten Tag, mein Name ist Elias Martens. Ich bin auf der Suche nach einer Fortbildung im Bereich Projektmanagement. Auf Ihrer Internetseite habe ich gelesen, dass Sie solche Fortbildungen anbieten.
 Hannah Bergmann: Das ist richtig. Wir bieten regelmäßig Seminare zum Thema Projektmanagement an.
@@ -625,7 +625,7 @@ https://www.reddit.com/r/German/comments/7o78d7/whats_the_difference_between_etw
 # 16_L16_1e.mp3
 <audio controls loop src="B1_Berufstrainer/16_L16_1e.mp3"></audio>
 
-`````
+`````de
 Moderator: Meine Damen und Herren, ich begrüße Sie herzlich zu unserer Sendung „Beruf und Karriere“. Heute darf ich Frau Elena Palisch im Studio begrüßen. Frau Palisch ist Geschäftsführerin des Unternehmens Kavadus, das im Mai zum „Arbeitgeber des Jahres“ gewählt wurde. Guten Tag, Frau Palisch.
 Elena Palisch: Guten Tag.
 Moderator: Frau Palisch, wie wichtig ist Ihnen Mitarbeiterzufriedenheit?
@@ -699,7 +699,7 @@ https://www.sprachschule-aktiv-wien.at/konjunktiv-2/
 # 17_L18_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/17_L18_2a_b.mp3"></audio>
 
-`````
+`````de
 Moderatorin: Gestern Nachmittag fand in Leipzig die Siegerehrung des Stadtradeln-Wettbewerbs statt. Teilgenommen hat auch die Firma Caro-trainings. Mein Kollege hatte gestern die Gelegenheit, vor Ort mit dem Geschäftsführer Dr. Simon Peters zu sprechen.
 Außenreporter: Herr Dr. Peters, Sie machen mit Ihrer Firma schon seit einigen Jahren beim Stadtradeln mit. Warum?
 Dr. Simon Peters: Ganz einfach: Wir möchten mit allen unseren Mitarbeitern ein Zeichen gegen Umweltverschmutzung setzen. Wenn mehr Menschen in den Großstädten Fahrrad fahren, ist die Luft besser, es gibt weniger Staus und die Menschen tun etwas für ihre Gesundheit. Dieser Wettbewerb ist für uns eine gute Gelegenheit, um uns für eine klimagerechte Stadt einzusetzen. Umweltschutz geht uns schließlich alle an. Und nicht zuletzt positionieren wir uns dadurch auch als umweltbewusster Arbeitgeber.
@@ -774,7 +774,7 @@ letztes/nächstes Jahr, im letzten/nächsten Jahr
 # 18_L19_1b.mp3
 <audio controls loop src="B1_Berufstrainer/18_L19_1b.mp3"></audio>
 
-`````
+`````de
 Bodenpersonal: Achtung, Achtung! Alle Passagiere, gebucht auf Lufthansa, Flug LH 2171 nach München, werden zum Flugsteig B45 gebeten. Ich wiederhole: Alle Passagiere, gebucht auf Lufthansa, Flug LH 2171 nach München, werden zum Flugsteig B45 gebeten.
 `````
 
@@ -791,7 +791,7 @@ ACHTUNG, ACHTUNG! Eine Durchsage: Katta und seine Freunde werden zum Flugsteig g
 # 19_L20_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/19_L20_2a_b.mp3"></audio>
 
-`````
+`````de
 Rezeptionist: Herzlich willkommen. Was kann ich für Sie tun?
 Hotelgast: Guten Tag. Ich habe bei Ihnen ein Zimmer reserviert. Auf den Namen Doorlag. D-O-O-R-L-A-G.
 Rezeptionist: Einen Augenblick. Ein Einzelzimmer für zwei Nächte, ist das richtig?
@@ -846,7 +846,7 @@ hinter, präp., behind
 # 20_L22_2a_b.mp3
 <audio controls loop src="B1_Berufstrainer/20_L22_2a_b.mp3"></audio>
 
-`````
+`````de
 Moderator: Liebe Zuhörerinnen und Zuhörer, für unsere Radiosendung „Beruf und Karriere“ waren wir in ganz Deutschland unterwegs und haben mit verschiedenen Menschen über ihre berufliche Situation gesprochen. Wir möchten Ihnen jetzt drei Menschen vorstellen, die uns von sich und ihrem Berufsleben berichtet haben.
 Isabel Krämer: Mein Name ist Isabel Krämer. Ich arbeite seit acht Jahren bei Unitex in Stuttgart. Das ist ein Unternehmen, das Schuhe produziert. Ich bin dort in der Personalabteilung. Unitex hat drei Filialen in Stuttgart, Hamburg und Rostock und insgesamt mehr als 500 Mitarbeiter. Dabei wurde die Firma erst vor zehn Jahren gegründet. Sie ist wirklich sehr schnell gewachsen ... Deshalb haben wir in der Personalabteilung auch immer jede Menge zu tun!
 Reinhard Diebold: Hallo, ich bin Reinhard Diebold. Ich arbeite als Servicemitarbeiter bei Safini, einer Firma, die große Druckmaschinen herstellt. Der Sitz der Firma ist in Paris, aber auch hier in Hannover gibt es eine Filiale, bei der ich angestellt bin. Ich reise viel herum und repariere Maschinen von Safini, die kaputtgegangen sind. Leider hat die Firma seit ein paar Jahren Schwierigkeiten. Sie müssen immer mehr Mitarbeiter entlassen. Ich habe nur noch ein paar Jahre bis zum Ruhestand, und ich hoffe, dass ich so lange noch bei Safini bleiben kann.
@@ -905,7 +905,7 @@ https://de.wiktionary.org/wiki/jede_Menge
 # 21_L24_1a_b.mp3
 <audio controls loop src="B1_Berufstrainer/21_L24_1a_b.mp3"></audio>
 
-`````
+`````de
 Christiane: Stellt euch vor, ich hatte einen lustigen Traum. Ich war in dem Traum bestimmt zehn Jahre älter und Chefin in meiner Firma. Und meine Chefin …. war meine Angestellte.
 Peter: Das ist ja lustig!
 Henri: Stellst du dir deine berufliche Zukunft so vor, Christiane? Sagen wir, in zehn Jahren?

@@ -1,7 +1,7 @@
 # 01_L1_2b.mp3
 <audio controls loop src="A2_Berufstrainer/01_L1_2b.mp3"></audio>
 
-`````
+`````de
 Meisterin: Und hier ist Ihr neuer Arbeitsplatz. Hier geradeaus ist der Salon, hier bedienen wir unsere Kundinnen und Kunden. Und da rechts – da ist unser Pausenraum. Hier können Sie Kaffee oder Tee kochen – auch für unsere Kunden. Sehen Sie: Hier ist unsere Kaffeemaschine, und da stehen die Tassen. Hier, und nur hier, können Sie in der Pause etwas essen. Das ist auch wichtig für Ihre Gesundheit: Im Salon haben wir ja viele Chemikalien. Und: Rauchen ist überall verboten. Das dürfen Sie nur draußen.
 Friseurin: Ich bin schon seit zehn Jahren Nichtraucherin.
 Meisterin: Ach so. Dann leben Sie ja gesund. Ich rauche – leider. Ach ja: Schützen Sie bei der Arbeit Ihre Hände. Benutzen Sie immer Handschuhe. Zum Haarewaschen nehmen Sie diese braunen Handschuhe hier. Sie müssen sie danach immer gut waschen und trocknen.
@@ -33,7 +33,7 @@ abmachen 取下，摘下
 # 02_L3_2a_b_c.mp3
 <audio controls loop src="A2_Berufstrainer/02_L3_2a_b_c.mp3"></audio>
 
-`````
+`````de
 Chefin: Guten Morgen. Wer fehlt denn noch? Guten Morgen, Herr Adam.
 Herr Adam: Guten Morgen.
 Chefin: Jetzt sind alle da. Also: Wir müssen ein paar wichtige Dinge besprechen. Morgen kommt unsere neue Auszubildende, Frau Mattwig. Sie kommt schon um 7 Uhr 30. Ich schlage vor, Sie kommen morgen alle etwas früher als sonst, schon um 7 Uhr 15. Frau Mattwig soll Sie gleich alle kennenlernen. Dann zeige ich ihr das Labor.
@@ -69,7 +69,7 @@ dagegen adv. 反对
 # 03_L4_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/03_L4_2a_b.mp3"></audio>
 
-`````
+`````de
 Sonja: Karl, wie sind denn die Nudeln?
 Karl: Ach, ganz gut. Und dein Gulasch?
 Sonja: Na ja, nicht so toll. Ein bisschen zu hart. Aber man kann es essen.
@@ -102,7 +102,7 @@ Einen schönen Tag noch. = Have a nice day.
 # 04_L4_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/04_L4_2a_b.mp3"></audio>
 
-`````
+`````de
 Herr Schröder: Ist hier noch frei?
 Herr Falcone: Hallo, Herr Schröder. Ja bitte, der Platz ist frei.
 Herr Schröder: Danke. Herr Falcone, wie läuft es denn so?
@@ -120,7 +120,7 @@ dauernd 持续的。持久的。经常的。
 # 05_L4_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/05_L4_2a_b.mp3"></audio>
 
-`````
+`````de
 Herr Nowak: Entschuldigung: Arbeiten Sie nicht im Kundenservice?
 Frau Hellwig: Ja, da arbeite ich. Und wo arbeiten Sie?
 Herr Nowak: Ich arbeite im Lager. Frank Nowak, mein Name. Wir haben schon miteinander telefoniert.
@@ -144,7 +144,7 @@ holen 取来,拿来,买 = get
 # 06_L6_4.mp3
 <audio controls loop src="A2_Berufstrainer/06_L6_4.mp3"></audio>
 
-`````
+`````de
 Frau Höfer: Hochbau GmbH, Höfer, guten Tag.
 Frau Sevim: Guten Tag, Frau Höfer, hier ist Yasemin Sevim. Ich habe Ihre Anzeige im Internet gelesen. Sie suchen eine Bauzeichnerin. Ist die Stelle noch frei?
 Frau Höfer: Ja, die Stelle ist noch frei.
@@ -174,7 +174,7 @@ Am besten Sie bewerben sich per E-Mail.
 # 07_L7_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/07_L7_2a_b.mp3"></audio>
 
-`````
+`````de
 Herr Hempel: Guten Tag, Frau Schmidt.
 Frau Schmidt: Guten Tag, Herr Hempel. Nehmen Sie doch Platz.
 Herr Hempel: Danke.
@@ -208,7 +208,7 @@ Herr Frank的Dativ要变成Herrn Frank
 # 08_L7_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/08_L7_2a_b.mp3"></audio>
 
-`````
+`````de
 Frau Jansen: Hallo, Frau Schmidt.
 Frau Schmidt: Hallo, Frau Jansen. Was kann ich für Sie tun?
 Frau Jansen: Es geht um Folgendes: Meine Kollegin, Frau Arkat, hat Urlaub in den Sommerferien bekommen. Vier Wochen! Sie hat doch keine Kinder, sie kann immer Urlaub machen. Aber ich – ich habe Kinder. Ich muss in den Sommerferien Urlaub machen. Ich habe immer Urlaub in den Sommerferien gemacht. Aber in diesem Jahr geht das nicht. Was mache ich denn da jetzt am besten?
@@ -226,7 +226,7 @@ Sommerferien Pl. 暑假
 # 09_L8_3b.mp3
 <audio controls loop src="A2_Berufstrainer/09_L8_3b.mp3"></audio>
 
-`````
+`````de
 Notrufzentrale: Notrufzentrale Leipzig, Scholz. Wer ist am Apparat?
 Frau Bindels: Bindels, Eva Bindels. Wir brauchen einen Krankenwagen!
 Notrufzentrale: Frau Bindels: Können Sie mir bitte Ihre Telefonnummer geben?
@@ -258,7 +258,7 @@ spätestens adv. 最迟，最晚
 # 10_L10_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/10_L10_2a_b.mp3"></audio>
 
-`````
+`````de
 Braun: GTN24, Braun, guten Tag. Was kann ich für Sie tun?
 Köster: Köster, Restaurant Berlin, guten Tag. Ich habe bei Ihnen vor zwei Tagen über den Onlineshop Gläser, Teller und Besteck bestellt. Die Lieferung ist heute angekommen. Das ist wirklich sehr schnell gegangen. Aber die Lieferung ist falsch! Das ist eine Katastrophe! Wir haben heute eine große Hochzeitsfeier und wir brauchen die Sachen dringend!
 Braun: Oh. Es tut mir leid, dass die Lieferung falsch war und Sie jetzt Probleme haben. 
@@ -300,7 +300,7 @@ Menümesser [me`ny:]
 # 11_L11_2b.mp3
 <audio controls loop src="A2_Berufstrainer/11_L11_2b.mp3"></audio>
 
-`````
+`````de
 Herr Solm: Guten Tag, Frau Tarsic, ich freue mich, dass wir uns endlich mal persönlich kennenlernen.
 Frau Tarsic: Guten Tag, Herr Solm. Ich freue mich auch. Unsere Firmen arbeiten schon lange zusammen, aber wir haben bis heute nur miteinander telefoniert.
 Herr Solm: Ja, aber jetzt kennen wir uns auch persönlich. Hatten Sie eine gute Reise?
@@ -318,7 +318,7 @@ persönlich 亲自的，本人的
 # 12_L11_2b.mp3
 <audio controls loop src="A2_Berufstrainer/12_L11_2b.mp3"></audio>
 
-`````
+`````de
 Frau Schäfer: Guten Tag, Herr Reimann. 
 Herr Reimann: Guten Tag, Frau Schäfer. Wie geht es Ihnen? Wir haben uns lange nicht mehr gesehen.
 Frau Schäfer: Gut. Und Ihnen?
@@ -342,7 +342,7 @@ Weimar 魏玛
 # 13_L12_2.mp3
 <audio controls loop src="A2_Berufstrainer/13_L12_2.mp3"></audio>
 
-`````
+`````de
 Frau Miller: Miller, Personalabteilung. 
 Frau Parádi: Parádi, guten Tag, Frau Miller. Frau Miller, ich glaube, dass ich noch Urlaub aus dem letzten Jahr habe. Aber ich weiß nicht, wie viel. Können Sie mir das bitte sagen?
 Frau Miller: Ja, einen Moment. Ja, hier habe ich es. Sie haben noch vier Tage Resturlaub. 
@@ -376,7 +376,7 @@ Ich habe den vierzigsten Geburtstag. 我过40岁生日。
 # 14_L14_4a.mp3
 <audio controls loop src="A2_Berufstrainer/14_L14_4a.mp3"></audio>
 
-`````
+`````de
 Frau Scholz: Herr Frey, Sie lernen unseren Betrieb langsam kennen. Sie arbeiten zuerst im Lager, dann in der Verpackung, danach in der Bestellannahme, …
 Herr Frey: Ja, Frau Scholz. Das finde ich sehr interessant. Ich möchte gern alle Abteilungen hier kennenlernen. Können Sie mir nur ganz kurz sagen, wie eine Bestellung hier bearbeitet wird? Wie ist der Ablauf?
 Frau Scholz: Natürlich Herr Frey. Also, ein Kunde bestellt bei uns eine Ware, ein Buch, eine CD oder DVD. Diese Bestellung geht dann bei uns in der Bestellannahme ein. Dort wird die Bestellung geprüft: Hat der Kunde das Formular richtig ausgefüllt? Haben wir den Artikel im Lager oder müssen wir ihn bestellen? Danach wird die Rechnung geschrieben und das Lager informiert. Im Lager wird dann die Ware aus den Regalen geholt und zum Verpacken geschickt. Dort wird die Ware zusammen mit der Rechnung und dem Lieferschein in ein Päckchen gepackt. Die Pakete werden dann abgeholt und an den Kunden versandt. Die Buchhaltung wird informiert und prüft den Zahlungseingang.
@@ -399,7 +399,7 @@ der Zahlungseingang  收到货款，付款收据
 # 15_L15_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/15_L15_2a_b.mp3"></audio>
 
-`````
+`````de
 Chef: In diesem Zimmer müssen noch neue Steckdosen eingesetzt werden. Karl, mach mal die Sicherung aus. Sonst können wir nicht arbeiten, das ist zu gefährlich. 
 Karl: Die Sicherung ist aus.
 Chef: Gut, Karl, dann komm mal her. Ich fange mal an, dann machst du weiter. Den Spannungsprüfer!
@@ -439,7 +439,7 @@ Verblendung 掩盖物
 # 16_L16_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/16_L16_2a_b.mp3"></audio>
 
-`````
+`````de
 Herr Küster: Küster, IT-Consulting, guten Tag.
 Frau Kopyto: Kopyto. Guten Tag, Herr Küster. Ich habe Ihre E-Mail mit der Stellenzusage bekommen.
 Herr Küster: Guten Tag, Frau Kopyto. Ich freue mich auf eine gute Zusammenarbeit mit Ihnen.
@@ -489,7 +489,7 @@ BIC: Bank Indentifier Code 银行识别码
 # 17_L17_3a_b.mp3
 <audio controls loop src="A2_Berufstrainer/17_L17_3a_b.mp3"></audio>
 
-`````
+`````de
 Vorgesetzte: Und hier ist dann Ihr Arbeitsplatz. Sie arbeiten ja hier im Verkauf, also im Service. Sie wissen schon, dass Sie hier Dienstkleidung tragen müssen: ein rotes T-Shirt und eine schwarze Hose.
 Mitarbeiter: Ja, das weiß ich. Wo bekomme ich die Sachen? Muss ich sie mir selber kaufen?
 Vorgesetzte: Nein, nein. Unsere Uniform – das T-Shirt und die Hose – bekommen Sie von uns gestellt. Da gehen Sie am besten nachher gleich zu Herrn Flux. Der gibt Ihnen die Sachen. Sie müssen auch schwarze Schuhe anziehen.
@@ -509,7 +509,7 @@ We will provide you with our uniform – the T-shirt and trousers.
 # 18_L17_3a_b.mp3
 <audio controls loop src="A2_Berufstrainer/18_L17_3a_b.mp3"></audio>
 
-`````
+`````de
 Praktikantin: Brauche ich für mein Praktikum im Labor besondere Arbeits- oder Schutzkleidung?
 Laborleiter: Aber sicher! Die Arbeit im Labor ist nicht ungefährlich. Sie brauchen unbedingt einen Laborkittel aus Baumwolle. Und wenn Sie im Labor sind, müssen Sie immer eine spezielle Schutzbrille tragen. Außerdem brauchen Sie feste Schuhe.
 Praktikantin: Wo kann ich die Sachen hier in der Nähe kaufen? Haben Sie einen Tipp?
@@ -530,7 +530,7 @@ Haarhaube 头套(厨师、医护人员带的那种)
 # 19_L17_3a_b.mp3
 <audio controls loop src="A2_Berufstrainer/19_L17_3a_b.mp3"></audio>
 
-`````
+`````de
 Meisterin: Sie können gleich nächste Woche in unserer Werkstatt anfangen.
 Mitarbeiter: Das ist super! Ich habe auch noch Arbeitskleidung zu Hause: eine rote Latzhose und natürlich meine Arbeitsschuhe.
 Meisterin: Wir tragen hier alle einen blauen Overall mit unserem Firmennamen. Den müssen Sie sich kaufen.
@@ -550,7 +550,7 @@ der Overall 是一身工装，包括长袖的上衣
 # 20_L19_2a.mp3
 <audio controls loop src="A2_Berufstrainer/20_L19_2a.mp3"></audio>
 
-`````
+`````de
 Frau Mohn: Guten Morgen. Sind alle da? Nein, …
 Frau Schäfer: Herr Rattke fehlt, er hat sich krankgemeldet.
 Frau Mohn: Ah, hm. Wir wollten doch heute über die Urlaubsplanung sprechen. Dann verschieben wir diesen Tagesordnungspunkt also. Denn wenn es um den Urlaub geht, müssen wir uns ja alle zusammen absprechen.
@@ -575,7 +575,7 @@ wahr 真实的，正确的，确实如此的
 # 21_L19_2b.mp3
 <audio controls loop src="A2_Berufstrainer/21_L19_2b.mp3"></audio>
 
-`````
+`````de
 Herr Arndt: Das ist wahr. Dann kommt die Urlaubsplanung auf die nächste Tagesordnung.
 Frau Mohn: Gut. Kommen wir gleich zum ersten Tagesordnungspunkt. Die Firma AGP Baustoffe hat das Holz nicht geliefert. Jetzt haben wir ein Problem. Wir brauchen das Material dringend für unsere Baustellen. Was können wir da am besten machen?
 Frau Schäfer: Ich meine, wir sollten den Lieferanten wechseln. Das ist ja nicht das erste Mal, dass die Firma nicht pünktlich liefert.
@@ -602,7 +602,7 @@ einverstanden 同意的，赞同的
 # 22_L19_2b.mp3
 <audio controls loop src="A2_Berufstrainer/22_L19_2b.mp3"></audio>
 
-`````
+`````de
 Frau Mohn: Wir hoffen mal, dass die Arbeiten auf der Baustelle so gut wie bisher weitergehen. Dann sind wir dort auch pünktlich fertig. Und jetzt zu TOP 3 – unser Sommerfest. Haben Sie eine Idee, was wir dieses Mal machen können?
 Frau Schäfer: Ich finde, wir sollten das Sommerfest wie im letzten Jahr wieder in der Firma machen: grillen, Musik, …
 Herr Arndt: Also ich weiß nicht. Ist das nicht ein bisschen langweilig? Wir könnten ja auch mal in das Restaurant „La Vie“ gehen. Dort gibt es das beste Essen in der Stadt!
@@ -627,7 +627,7 @@ Das Lied hört sich gut an. 这首歌起来很好。
 # 24_L22_1c.mp3
 <audio controls loop src="A2_Berufstrainer/24_L22_1c.mp3"></audio>
 
-`````
+`````de
 Herr Fangmeier: Was ist denn das? Nein, nicht jetzt! Frau Colucci, es kommt kein Bon raus. Der Drucker ist kaputt. Können Sie mir bitte mal kurz helfen?
 Frau Colucci: Na klar, einen Moment bitte. Ich komme sofort. Ja, was ist denn los, Herr Fangmeier?
 Herr Fangmeier: Ich wollte nur schnell den Bon für Tisch 13 fertig machen, also ausdrucken. Aber es kommt kein Papier raus. Schauen Sie, nichts passiert.
@@ -663,7 +663,7 @@ abreißen 撕开，扯下
 # 25_L23_2a_b.mp3
 <audio controls loop src="A2_Berufstrainer/25_L23_2a_b.mp3"></audio>
 
-`````
+`````de
 Frau Gülich: Guten Tag, Herr Dr. Sauvage.
 Herr Dr. Sauvage: Guten Tag, Frau Gülich.
 Frau Gülich: Nehmen Sie doch Platz, Herr Dr. Sauvage.
@@ -759,7 +759,7 @@ Ich bin mit der Arbeit fertig.
 # 26_L24_2b.mp3
 <audio controls loop src="A2_Berufstrainer/26_L24_2b.mp3"></audio>
 
-`````
+`````de
 Frau Sundermann: Sundermann.
 Herr Sundermann: Hallo, Nina.
 Frau Sundermann: Hallo! Claas, ist etwas Besonderes? Warum rufst du an?
